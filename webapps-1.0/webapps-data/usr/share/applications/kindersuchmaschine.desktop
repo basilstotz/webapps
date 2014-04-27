@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Type=Application
+Name=Kinder Suchmaschine
+GenericName=Kinder Sucjmaschine
+Comment=Die Suchmaschine für Kinder
+Icon=kinderschmaschine.png
+Exec=chromium-browser --app=https://www.kindersuchmaschine.net
+Terminal=false
+Categories=Education
