@@ -2,9 +2,9 @@
 [Desktop Entry]
 Type=Application
 Name=Kinder Suchmaschine
-GenericName=Kinder Sucjmaschine
+GenericName=Kinder Suchmaschine
 Comment=Die Suchmaschine für Kinder
-Icon=kinderschmaschine.png
+Icon=kindersuchmaschine.png
 Exec=chromium-browser --app=http://www.kindersuchmaschine.net
 Terminal=false
 Categories=Education
