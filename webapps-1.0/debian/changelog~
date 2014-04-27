@@ -1,0 +1,5 @@
+webapps (1.0-1) unstable; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Basil Stotz <stotz@amxa.ch>  Sun, 27 Apr 2014 14:39:28 +0200

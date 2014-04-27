@@ -1,0 +1,4 @@
+./logisch-data/usr/share/prop/logisch ./usr/share/prop/
+./logisch-data/usr/share/applications/*.desktop ./usr/share/applications/
+./logisch-data/usr/share/pixmaps/* ./usr/share/pixmaps/
+./logisch-data/usr/share/bin/* ./usr/share/bin/
