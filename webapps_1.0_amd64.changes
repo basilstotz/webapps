@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Sun, 27 Apr 2014 14:39:28 +0200
+Source: webapps
+Binary: webapps
+Architecture: source all
+Version: 1.0
+Distribution: unstable
+Urgency: low
+Maintainer: Basil Stotz <stotz@amxa.ch>
+Changed-By: Basil Stotz <stotz@amxa.ch>
+Description: 
+ webapps    - launchers for webapps
+Changes: 
+ webapps (1.0) unstable; urgency=low
+ .
+   * Initial release
+Checksums-Sha1: 
+ 4c4e8161055f8409424ffebeb182f9596d03ab54 528 webapps_1.0.dsc
+ baa5f1ac45d7e949a77dabab09ac95ae715141db 63519 webapps_1.0.tar.gz
+ 85247af0b92b71803df7f1477cf62bfd8fdb21d5 63468 webapps_1.0_all.deb
+Checksums-Sha256: 
+ 61dcf92ddd8fb83a21379d2aabf467432b0dae449e47fbe4e7fc948fb569be73 528 webapps_1.0.dsc
+ d255eaae6f6f7e97d9ec16721bbe34eb919eaa41bea88defcb347739d480133c 63519 webapps_1.0.tar.gz
+ a658b11cffaecf290b635abbf812184ecf67195723b5c01829c60ce54022f221 63468 webapps_1.0_all.deb
+Files: 
+ 8887403c1a2a02a7c52981a2e556a306 528 unknown extra webapps_1.0.dsc
+ 4e8f15e2f2eb94f7608044d86a337198 63519 unknown extra webapps_1.0.tar.gz
+ fbb03e228b7e54e1c515760386056359 63468 unknown extra webapps_1.0_all.deb
