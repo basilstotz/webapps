@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Type=Application
+Name=
+GenericName= 
+Comment=
+Icon=
+Exec=chromium-browser --app=http://www.
+Terminal=false
+Categories=Education

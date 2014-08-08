@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Type=Application
+Name=Bodenreise
+GenericName=Bodenreise
+Comment="Entdecke den Boden"
+Icon=bodenreise.png
+Exec=chromium-browser --app="http://http://bafu.lernfragen.ch/file.php/1/lift_2/index.html#de"
+Terminal=false
+Categories=Education

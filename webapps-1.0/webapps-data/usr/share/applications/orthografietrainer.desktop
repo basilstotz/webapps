@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Type=Application
+Name=OrtoGrafieTrainer
+GenericName=OrtoGrafieTrainer
+Comment="Rechtschreibung üben"
+Icon=orthografietrainer.png
+Exec=chromium-browser --app=http://www.orthografietrainer.net
+Terminal=false
+Categories=Education

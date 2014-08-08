@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Type=Application
+Name=Mathe im Netz
+GenericName=Mathe im Netz
+Comment="Rechnen üben (1. bis 4.Klasse)"
+Icon=mathe-im-netz.png
+Exec=chromium-browser --app=http://www.mathe-in-netz.de
+Terminal=false
+Categories=Education

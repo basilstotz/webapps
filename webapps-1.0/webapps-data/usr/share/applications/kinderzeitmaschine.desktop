@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Type=Application
+Name=Kinder Zeitmaschine
+GenericName=Kinder Zeitmaschine
+Comment="Reise in die Vergangenheit"
+Icon=kinderzeitmaschine.png
+Exec=chromium-browser --app=http://www.kinderzeitmaschine.de
+Terminal=false
+Categories=Education

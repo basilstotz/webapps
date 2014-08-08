@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Type=Application
+Name=Schatz der Kulturen
+GenericName=Schatz der Kulturen
+Comment="Interkulturelles Quiz"
+Icon=schatz-der-kulturen.png
+Exec=chromium-browser --app=http://www.schatz-der-kulturen.de
+Terminal=false
+Categories=Education

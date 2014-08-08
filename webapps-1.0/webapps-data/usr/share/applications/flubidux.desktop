@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Type=Application
+Name=Flubidux
+GenericName=Flubidux
+Comment="Flubidux und die Tönebox"
+Icon=flubidux.png
+Exec=chromium-browser --app=http://http://www.flubidux.de/start.htm
+Terminal=false
+Categories=Education

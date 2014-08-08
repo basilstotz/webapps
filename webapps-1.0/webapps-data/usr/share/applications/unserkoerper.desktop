@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Type=Application
+Name=Unser Körper
+GenericName= Unser Körper
+Comment="Mein Körper und Ich"
+Icon=unserkoerper.png
+Exec=chromium-browser --app=http://www.unserkoerper.de
+Terminal=false
+Categories=Education

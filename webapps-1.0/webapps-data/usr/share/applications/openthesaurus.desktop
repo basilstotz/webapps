@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Type=Application
+Name=OpenThesaurus
+GenericName=OpenThesaurus
+Comment="Synomyme und Assoziationen finden"
+Icon=openthesuarus.png
+Exec=chromium-browser --app=http://www.openthesaurus.de
+Terminal=false
+Categories=Education

@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Type=Application
+Name=SiKoRe
+GenericName=SiKoRe
+Comment="Sicheres Kopfrechnen"
+Icon=
+Exec=chromium-browser --app=http://http://www.sikore.schiffner-tischer.de/
+Terminal=false
+Categories=Education

@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Type=Application
+Name=Map GeoAdmin
+GenericName=Map GeoAdmin
+Comment="Karten von geo.admin"
+Icon=map-geo-admin.png
+Exec=chromium-browser --app=http://map.geo.admin.ch/
+Terminal=false
+Categories=Education
