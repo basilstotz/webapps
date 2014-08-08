@@ -5,6 +5,6 @@ Name=Musikwissenschaften
 GenericName=Musikwissenschaften
 Comment="Übungen zur Gehörbildung"
 Icon=musikwissenschaften.png
-Exec=chromium-browser --app=http://www.musikwissenschaften/kids/
+Exec=chromium-browser --app=http://www.musikwissenschaften.de/kids/
 Terminal=false
 Categories=Education

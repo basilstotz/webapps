@@ -4,7 +4,7 @@ Type=Application
 Name=Internet ABC
 GenericName= Internet ABC
 Comment="Umgang mit dem Interent"
-Icon=internat-abc.png
+Icon=internet-abc.png
 Exec=chromium-browser --app=http://www.internet-abc.ch/kinder/
 Terminal=false
 Categories=Education

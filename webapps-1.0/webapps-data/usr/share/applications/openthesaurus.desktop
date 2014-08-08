@@ -4,7 +4,7 @@ Type=Application
 Name=OpenThesaurus
 GenericName=OpenThesaurus
 Comment="Synomyme und Assoziationen finden"
-Icon=openthesuarus.png
+Icon=openthesaurus.png
 Exec=chromium-browser --app=http://www.openthesaurus.de
 Terminal=false
 Categories=Education
