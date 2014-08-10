@@ -3,7 +3,8 @@
 Type=Application
 Name=Antolin
 GenericName=Antolin 
-Comment=Mit lesen Punkten
+Comment="Mit lesen Punkten"
+Keywords="lp21 sprachen deutsch lesen"
 Icon=antolin.png
 Exec=chromium-browser --app=https://www.antolin.de
 Terminal=false

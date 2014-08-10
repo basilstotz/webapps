@@ -4,6 +4,7 @@ Type=Application
 Name=Kinder Zeitmaschine
 GenericName=Kinder Zeitmaschine
 Comment="Reise in die Vergangenheit"
+Keywords="lp21 nmg zeiten gesellschaften"
 Icon=kinderzeitmaschine.png
 Exec=chromium-browser --app=http://www.kinderzeitmaschine.de
 Terminal=false

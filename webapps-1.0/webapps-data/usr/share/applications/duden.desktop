@@ -2,8 +2,9 @@
 [Desktop Entry]
 Type=Application
 Name=Duden
-GenericName=Duden 
-Comment=Im Duden online nachschlagen
+GenericName=Wörterbuch
+Comment="Im Duden online nachschlagen"
+Keywords="lp21 sprachen deutsch"
 Icon=duden.png
 Exec=chromium-browser --app=http://www.duden.de/woerterbuch
 Terminal=false

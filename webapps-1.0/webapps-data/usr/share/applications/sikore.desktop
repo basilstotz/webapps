@@ -4,6 +4,7 @@ Type=Application
 Name=SiKoRe
 GenericName=SiKoRe
 Comment="Sicheres Kopfrechnen"
+Keywords="lp21 mathematik zahl variable"
 Icon=sikore.png
 Exec=chromium-browser --app=http://www.sikore.schiffner-tischer.de/
 Terminal=false

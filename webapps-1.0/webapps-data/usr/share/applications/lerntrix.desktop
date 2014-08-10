@@ -4,6 +4,7 @@ Type=Application
 Name=Lerntrix
 GenericName=Lerntrix
 Comment="Rechenwerkstatt"
+Keywords="lp21 mathematik zahl variable operieren benennen"
 Icon=lerntrix.png
 Exec=chromium-browser --app=http://www.labbe.de/lerntrix/index_mg.asp
 Terminal=false

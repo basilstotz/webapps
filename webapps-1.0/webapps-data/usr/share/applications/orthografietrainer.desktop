@@ -4,6 +4,7 @@ Type=Application
 Name=OrthoGrafieTrainer
 GenericName=OrtoGrafieTrainer
 Comment="Rechtschreibung üben"
+Keywords="lp21 sprachen deutsch"
 Icon=orthografietrainer.png
 Exec=chromium-browser --app=http://www.orthografietrainer.net
 Terminal=false

@@ -4,6 +4,7 @@ Type=Application
 Name=NotenMax
 GenericName=NotenMax
 Comment="Musikerziehung"
+Keywords="lp21 musik singen hören"
 Icon=notenmax.png
 Exec=chromium-browser --app=http://www.notenmax.de
 Terminal=false

@@ -4,6 +4,7 @@ Type=Application
 Name=Kinderweltmusik
 GenericName=Kinderweltmusik
 Comment="Ein Multimediale Weltkarte der Kindermusik"
+Keywords="lp21 musik hören"
 Icon=kinderweltmusik.png
 Exec=chromium-browser --app=http://www.weltmusik-fuer-kinder.de
 Terminal=false

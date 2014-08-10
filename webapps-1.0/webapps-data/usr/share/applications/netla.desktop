@@ -4,6 +4,7 @@ Type=Application
 Name=NetLa
 GenericName=NetLa 
 Comment="Meine Daten gehören mir"
+Keywords="lp21 nmg ict medien"
 Icon=netla.png
 Exec=chromium-browser --app=http://www.netla.ch
 Terminal=false

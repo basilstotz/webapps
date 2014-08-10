@@ -4,6 +4,7 @@ Type=Application
 Name=Musikwissenschaften
 GenericName=Musikwissenschaften
 Comment="Übungen zur Gehörbildung"
+Keywords="lp21 musik hören singen"
 Icon=musikwissenschaften.png
 Exec=chromium-browser --app=http://www.musikwissenschaften.de/kids/
 Terminal=false

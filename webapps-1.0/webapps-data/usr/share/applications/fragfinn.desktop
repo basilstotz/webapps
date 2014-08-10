@@ -3,7 +3,8 @@
 Type=Application
 Name=fragFINN
 GenericName=fragFINN 
-Comment=Das Netz für Kids
+Comment="Das Netz für Kids"
+Keywords="lp21 alle ict medien"
 Icon=fragfinn.png
 Exec=chromium-browser --app=http://www.fragfinn.de
 Terminal=false

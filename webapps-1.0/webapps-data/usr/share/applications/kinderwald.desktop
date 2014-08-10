@@ -4,6 +4,7 @@ Type=Application
 Name=Kinder Wald
 GenericName=Kinder Wald
 Comment="Entdecke den Wald"
+Keywords="lp21 nmg natur"
 Icon=kinderwald.png
 Exec=chromium-browser --app=http://kinder.wald.de
 Terminal=false

@@ -3,7 +3,8 @@
 Type=Application
 Name=MiniBooks
 GenericName=MiniBooks 
-Comment=Kleine Bücher herstellen
+Comment="Kleine Bücher herstellen"
+Keywords="lp21 sprachen deutsch französisch italienisch schreiben"
 Icon=minibooks.png
 Exec=chromium-browser --app=http://www.minibooks.ch
 Terminal=false
