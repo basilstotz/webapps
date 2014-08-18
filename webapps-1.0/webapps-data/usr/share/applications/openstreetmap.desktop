@@ -4,7 +4,7 @@ Type=Application
 Name=OpenStreetMap
 GenericName=OpenStreetMap
 Comment="Online Karte"
-Keywords="lp21 nmg räume"
+Keywords="lp21 nmg räume geografie"
 Icon=openstreetmap.png
 Exec=chromium-browser --app=http://www.openstreetmap.ch
 Terminal=false
