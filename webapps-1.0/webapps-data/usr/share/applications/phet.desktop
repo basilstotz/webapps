@@ -4,7 +4,7 @@ Type=Application
 Name=PhEt
 GenericName=PhEt 
 Comment="Interaktive Simulationen"
-Keawords="lp21 nmg"
+Keawords="lp21 nmg physik"
 Icon=phet.png
 Exec=chromium-browser --app=http://phet.colorado.edu/de/simulations/category/by-level/elementary-school/index
 Terminal=false
