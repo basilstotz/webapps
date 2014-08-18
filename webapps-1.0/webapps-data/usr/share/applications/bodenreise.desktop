@@ -4,7 +4,7 @@ Type=Application
 Name=Bodenreise
 GenericName=Bodenreise
 Comment="Entdecke den Boden"
-Keywords="lp21 nmg natur"
+Keywords="lp21 nmg natur biologie"
 Icon=bodenreise.png
 Exec=chromium-browser --app="http://bafu.lernfragen.ch/file.php/1/lift_2/index.html#de"
 Terminal=false
