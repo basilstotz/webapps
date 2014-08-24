@@ -6,6 +6,6 @@ GenericName=MiniBooks
 Comment="Kleine Bücher herstellen"
 Keywords="lp21 sprachen deutsch französisch italienisch schreiben"
 Icon=minibooks.png
-Exec=webapps http://www.minibooks.ch
+Exec=/usr/share/bin/webapps http://www.minibooks.ch
 Terminal=false
 Categories=Education

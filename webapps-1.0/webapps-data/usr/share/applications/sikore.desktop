@@ -6,6 +6,6 @@ GenericName=SiKoRe
 Comment="Sicheres Kopfrechnen"
 Keywords="lp21 mathematik zahl variable"
 Icon=sikore.png
-Exec=webapps http://www.sikore.schiffner-tischer.de/
+Exec=/usr/share/bin/webapps http://www.sikore.schiffner-tischer.de/
 Terminal=false
 Categories=Education

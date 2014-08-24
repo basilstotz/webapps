@@ -6,6 +6,6 @@ GenericName=Mathe Aktiv Multiplikation
 Comment="Insätze üben"
 Keywords="lp21 z1 mathematik zahl variable"
 Icon=mathe-aktiv-insaetze.png
-Exec=webapps "http://www.lehrerweb.at/materials/gs/mathe/mathe_aktiv/insaetzchen/index.htm"
+Exec=/usr/share/bin/webapps "http://www.lehrerweb.at/materials/gs/mathe/mathe_aktiv/insaetzchen/index.htm"
 Terminal=false
 Categories=Education

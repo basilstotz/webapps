@@ -6,6 +6,6 @@ GenericName=Lerntrix
 Comment="Rechenwerkstatt"
 Keywords="lp21 mathematik zahl variable operieren benennen"
 Icon=lerntrix.png
-Exec=webapps http://www.labbe.de/lerntrix/index_mg.asp
+Exec=/usr/share/bin/webapps http://www.labbe.de/lerntrix/index_mg.asp
 Terminal=false
 Categories=Education

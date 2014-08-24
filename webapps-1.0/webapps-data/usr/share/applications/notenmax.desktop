@@ -6,6 +6,6 @@ GenericName=NotenMax
 Comment="Musikerziehung"
 Keywords="lp21 musik singen hören"
 Icon=notenmax.png
-Exec=webapps http://www.notenmax.de
+Exec=/usr/share/bin/webapps http://www.notenmax.de
 Terminal=false
 Categories=Education

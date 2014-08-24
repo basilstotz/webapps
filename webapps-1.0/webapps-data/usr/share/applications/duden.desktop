@@ -6,6 +6,6 @@ GenericName=Wörterbuch
 Comment="Im Duden online nachschlagen"
 Keywords="lp21 sprachen deutsch"
 Icon=duden.png
-Exec=webapps http://www.duden.de/woerterbuch
+Exec=/usr/share/bin/webapps http://www.duden.de/woerterbuch
 Terminal=false
 Categories=Education

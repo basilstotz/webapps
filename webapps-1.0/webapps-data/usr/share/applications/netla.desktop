@@ -6,6 +6,6 @@ GenericName=NetLa
 Comment="Meine Daten gehören mir"
 Keywords="lp21 nmg ict medien"
 Icon=netla.png
-Exec=webapps http://www.netla.ch
+Exec=/usr/share/bin/webapps http://www.netla.ch
 Terminal=false
 Categories=Education

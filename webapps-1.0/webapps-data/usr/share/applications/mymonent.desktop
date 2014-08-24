@@ -6,6 +6,6 @@ GenericName=MyMoment
 Comment="Schreiben und lesen"
 Keywords="lp21 sprachen deutsch lesen schreiben"
 Icon=mymoment.png
-Exec=webapps http://www.mymoment.ch
+Exec=/usr/share/bin/webapps http://www.mymoment.ch
 Terminal=false
 Categories=Education

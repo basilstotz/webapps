@@ -6,6 +6,6 @@ GenericName=OrtoGrafieTrainer
 Comment="Rechtschreibung üben"
 Keywords="lp21 sprachen deutsch"
 Icon=orthografietrainer.png
-Exec=webapps http://www.orthografietrainer.net
+Exec=/usr/share/bin/webapps http://www.orthografietrainer.net
 Terminal=false
 Categories=Education

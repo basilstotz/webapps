@@ -6,6 +6,6 @@ GenericName=Antolin
 Comment="Mit lesen Punkten"
 Keywords="lp21 sprachen deutsch lesen"
 Icon=antolin.png
-Exec=webapps https://www.antolin.de
+Exec=/usr/share/bin/webapps https://www.antolin.de
 Terminal=false
 Categories=Education

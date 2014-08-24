@@ -6,6 +6,6 @@ GenericName=PhEt
 Comment="Interaktive Simulationen"
 Keawords="lp21 nmg physik"
 Icon=phet.png
-Exec=webapps http://phet.colorado.edu/de/simulations/category/by-level/elementary-school/index
+Exec=/usr/share/bin/webapps http://phet.colorado.edu/de/simulations/category/by-level/elementary-school/index
 Terminal=false
 Categories=Education

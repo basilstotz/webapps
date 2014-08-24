@@ -6,6 +6,6 @@ GenericName=Map GeoAdmin
 Comment="Karten von geo.admin"
 Keywords="lp21 räume orientieren erde geografie"
 Icon=map-geo-admin.png
-Exec=webapps http://map.geo.admin.ch/
+Exec=/usr/share/bin/webapps http://map.geo.admin.ch/
 Terminal=false
 Categories=Education

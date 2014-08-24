@@ -6,6 +6,6 @@ GenericName=Kinderweltmusik
 Comment="Ein Multimediale Weltkarte der Kindermusik"
 Keywords="lp21 musik hören"
 Icon=kinderweltmusik.png
-Exec=webapps http://www.weltmusik-fuer-kinder.de
+Exec=/usr/share/bin/webapps http://www.weltmusik-fuer-kinder.de
 Terminal=false
 Categories=Education
