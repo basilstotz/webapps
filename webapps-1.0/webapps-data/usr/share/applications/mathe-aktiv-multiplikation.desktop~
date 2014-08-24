@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Type=Application
+Name=Mathe Aktiv Multiplikation
+GenericName=Mathe Aktiv Multiplikation
+Comment="1 mal 1 üben"
+Keywords="lp21 z1 mathematik zahl variable"
+Icon=mathe-aktiv-multiplikation.png
+Exec=chromium-browser --app=
+Terminal=false
+Categories=Education

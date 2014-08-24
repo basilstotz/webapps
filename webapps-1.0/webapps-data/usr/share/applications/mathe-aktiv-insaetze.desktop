@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Type=Application
+Name=Mathe Aktiv Multiplikation
+GenericName=Mathe Aktiv Multiplikation
+Comment="Insätze üben"
+Keywords="lp21 z1 mathematik zahl variable"
+Icon=mathe-aktiv-insaetze.png
+Exec=chromium-browser --app="http://www.lehrerweb.at/materials/gs/mathe/mathe_aktiv/insaetzchen/index.htm"
+Terminal=false
+Categories=Education
