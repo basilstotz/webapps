@@ -15,14 +15,14 @@ Changes:
  .
    * Initial release
 Checksums-Sha1: 
- 3b65b5b4e22839a11e2da3b024a5448ca40fdc21 531 webapps_1.0.dsc
- 19427eb78ef9a1d7dc92be2197e2caf3981dc76d 861180 webapps_1.0.tar.gz
- 85a8fda5099e6476189119d324e2b6eb0f6d9249 862454 webapps_1.0_all.deb
+ bedff260f1b17d29157174a5f1d5a46db3d41fe1 531 webapps_1.0.dsc
+ 3206f9ba0407079e97a17480491d118fca9f6800 873724 webapps_1.0.tar.gz
+ 9e6268efdeda87def53707f41a7063fcffe90b48 874966 webapps_1.0_all.deb
 Checksums-Sha256: 
- d5fd777eef9ef2fb56452ae0703ad4a199b6fc6fea6cbeddcf36652c35c21157 531 webapps_1.0.dsc
- d2e719b76054d4c508ac8bf7586497693beeee415bb2be493b51a2ae7b367905 861180 webapps_1.0.tar.gz
- ffb1853e65609e91e8314c09e4e8083e501e73e771a9055323fd8ee53b4f0f97 862454 webapps_1.0_all.deb
+ ce42528e2ce288b81dd6703f1bd0802d1cf19d9f78cc389fffe9a32b52712b3c 531 webapps_1.0.dsc
+ 8e5b3ec7c7c913a492656526e8afd626112ba9c198ced94339a7fdb086e292e4 873724 webapps_1.0.tar.gz
+ 309fd041d28825de8162a63b4531e0febac6131ad982ce616d646d519ba86595 874966 webapps_1.0_all.deb
 Files: 
- 8e6f828d47126edc86322af1474575d0 531 unknown extra webapps_1.0.dsc
- a42f4f221159e17fb173b13cc705a27e 861180 unknown extra webapps_1.0.tar.gz
- c72e10528db2a5dd428908764184e37c 862454 unknown extra webapps_1.0_all.deb
+ 1bcd25757aa145b729f92032c4df3d74 531 unknown extra webapps_1.0.dsc
+ b34c96e3409673cb677ab2b0786fa9d5 873724 unknown extra webapps_1.0.tar.gz
+ 1cc072c1bee31a9e47b20d2f7c1872e1 874966 unknown extra webapps_1.0_all.deb
