@@ -6,6 +6,6 @@ GenericName="Google Translate"
 Comment="Sprachen übersetzen"
 Keywords="lp21 sprachen deutsch französich italienisch"
 Icon=google-translate.png
-Exec=chromium-browser --app=https://translate.google.ch/
+Exec=webapps https://translate.google.ch/
 Terminal=false
 Categories=Education

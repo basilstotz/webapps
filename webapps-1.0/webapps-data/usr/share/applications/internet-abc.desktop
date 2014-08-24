@@ -6,6 +6,6 @@ GenericName= Internet ABC
 Comment="Umgang mit dem Interent"
 Keywords="lp21 ict medien"
 Icon=internet-abc.png
-Exec=chromium-browser --app=http://www.internet-abc.ch/kinder/
+Exec=webapps http://www.internet-abc.ch/kinder/
 Terminal=false
 Categories=Education

@@ -6,6 +6,6 @@ GenericName= Cool Driving
 Comment="Verkehrtheorie für Velofahrer"
 Keywords="lp21 mng verkehr technik"
 Icon=cool-driving.png
-Exec=chromium-browser --app=http://www.cooldriving.ch/flashCycle/cool02MX.swf
+Exec=webapps http://www.cooldriving.ch/flashCycle/cool02MX.swf
 Terminal=false
 Categories=Education

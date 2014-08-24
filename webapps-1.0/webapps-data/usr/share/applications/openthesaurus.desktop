@@ -6,6 +6,6 @@ GenericName=OpenThesaurus
 Comment="Synomyme und Assoziationen finden"
 Keywords="lp21 sprachen deutsch "
 Icon=openthesaurus.png
-Exec=chromium-browser --app=http://www.openthesaurus.de
+Exec=webapps http://www.openthesaurus.de
 Terminal=false
 Categories=Education

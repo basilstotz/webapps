@@ -1,4 +1,4 @@
-#!/usr/bin/env xdg-open
+q#!/usr/bin/env xdg-open
 [Desktop Entry]
 Type=Application
 Name=Map GeoAdmin
@@ -6,6 +6,6 @@ GenericName=Map GeoAdmin
 Comment="Karten von geo.admin"
 Keywords="lp21 räume orientieren erde geografie"
 Icon=map-geo-admin.png
-Exec=chromium-browser --app=http://map.geo.admin.ch/
+Exec=webapps http://map.geo.admin.ch/
 Terminal=false
 Categories=Education

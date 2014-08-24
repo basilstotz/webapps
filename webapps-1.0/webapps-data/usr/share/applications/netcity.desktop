@@ -6,6 +6,6 @@ GenericName=NetCity
 Comment="Spiel zu den Gefahren im Internet"
 Keywords="lp21 nmg ict medien"
 Icon=netcity.png
-Exec=chromium-browser --app=http://www.netcity.org
+Exec=webapps http://www.netcity.org
 Terminal=false
 Categories=Education

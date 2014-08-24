@@ -6,6 +6,6 @@ GenericName=Schatz der Kulturen
 Comment="Interkulturelles Quiz"
 Keywords="lp21 nmg gesellschaften räume"
 Icon=schatz-der-kulturen.png
-Exec=chromium-browser --app=http://www.schatz-der-kulturen.de
+Exec=webapps http://www.schatz-der-kulturen.de
 Terminal=false
 Categories=Education
