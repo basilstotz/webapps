@@ -1,6 +1,6 @@
 #!/bin/sh
 
 
-google-chrome --app="$@"
+chromium-browser --app="$@"
 
 exit
