@@ -1,3 +1,4 @@
 ./webapps-data/usr/share/applications/*.desktop ./usr/share/applications/
 ./webapps-data/usr/share/pixmaps/* ./usr/share/pixmaps/
 ./webapps-data/usr/share/bin/* ./usr/share/bin/
+./webapps-data/usr/share/node/* ./usr/share/node/
