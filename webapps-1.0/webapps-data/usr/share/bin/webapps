@@ -1,9 +1,6 @@
 #!/bin/sh
 
-if cat $1|grep -q '://'; then
-      chromium-browser --app="$@"
-else
-   nw $@
-fi
+
+chromium-browser --app="$@"
 
 exit
