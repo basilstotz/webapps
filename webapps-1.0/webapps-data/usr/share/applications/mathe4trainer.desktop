@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Type=Application
+Name=Mathe4Trainer
+GenericName=Mathe4Trainer
+Comment="Mathe üben 4.Klasse"
+Keywords="lp21 z2 mathematik zahl variable"
+Icon=mathe4trainer.png
+Exec=nw /usr/share/node/mathe4trainer
+Terminal=false
+Categories=Education
