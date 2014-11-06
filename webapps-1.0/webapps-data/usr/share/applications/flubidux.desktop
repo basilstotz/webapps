@@ -6,6 +6,6 @@ GenericName=Flubidux
 Comment="Flubidux und die Tönebox"
 Keywords="lp21 musik hören"
 Icon=flubidux.png
-Exec=/usr/share/bin/webapps http://www.flubidux.de/start.htm
+Exec=nw /usr/share/node/flubidux
 Terminal=false
 Categories=Education

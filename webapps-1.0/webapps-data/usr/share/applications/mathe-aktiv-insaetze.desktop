@@ -1,8 +1,8 @@
 #!/usr/bin/env xdg-open
 [Desktop Entry]
 Type=Application
-Name=Mathe Aktiv Multiplikation
-GenericName=Mathe Aktiv Multiplikation
+Name=Mathe Aktiv Insätze
+GenericName=Mathe Aktiv Insätze
 Comment="Insätze üben"
 Keywords="lp21 z1 mathematik zahl variable"
 Icon=mathe-aktiv-insaetze.png
