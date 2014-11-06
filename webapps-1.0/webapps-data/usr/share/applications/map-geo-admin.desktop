@@ -1,4 +1,4 @@
-q#!/usr/bin/env xdg-open
+#!/usr/bin/env xdg-open
 [Desktop Entry]
 Type=Application
 Name=Map GeoAdmin
