@@ -15,6 +15,7 @@
     "height": 758
   },
   "webkit": {
-    "plugin": true
+    "plugin": true,
+    "page-cache": true
   }
 }

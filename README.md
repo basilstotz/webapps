@@ -1,11 +1,21 @@
 webapps
 =======
 
-Webapp-Bundle für Primarschulen
+== Inhalt == 
 
-Auswahl entspricht etwa dem lernstick von der FHNW: 
+Webapp-Bundle für Primarschulen.
 
-Inhalt: 36 Starter
+Auswahl entspricht etwa der des Lernsticks von der FHNW. Diese wurde um etwa 10 Angebote ergänzt. 
+
+Die Auswahl wird laufend aktualisiert.
+
+Inhalt: 38 Starter
+
+== Abhängikeiten ==
+
+Das Packet benötigt: node, node-webkit und google-chrome
+
+== Lehrplan ==
 
 
 
