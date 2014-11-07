@@ -90,23 +90,28 @@ Daraus ergibt sich folgendes Vokabular:
 
    * **Fächer:** Deutsch, Französisch, English, Arithmetik, Geometrie, Statistik, Biologie, Psychologie, Chemie, Physik, Geologie, Wirtschaft, Ökologie, Ökonomie, Geografie, Astronomie, Geschichte, Soziologie, Ethik, Philosofie, Musik, Zeichnen, Werken
 
-   * **Verben:** hören, lesen, sprechen, schreiben, singen, bewegen, tanzen, musizieren, gestalten, operieren, benennen, erforschen, argumentieren, mathematisieren, darstellen, erklären, herstellen
+   * **Verben:** hören, lesen, sprechen, schreiben, singen, bewegen, tanzen, musizieren, gestalten, operieren, benennen, erforschen, argumentieren, mathematisieren, darstellen, erklären, herstellen, üben, prüfen, lernen
 
-   * **Nomen:** Sprache, Literatur, Kultur, Zahl, Variable, Form, Raum, Grössen, Funktion, Zufall, Identität, Körper, Gesundheit, Tiere, Planzen, Stoff, Energie, Bewegung, Natur, Technik, Konsum, Leben, Lebensweise, Lebensraum, Räume, Zeit, Dauer, Wandel, Gemeinschaft, Gesellschaft, Grunderfahrungen, Werte, Normen, Religionen, Weltsichten, Musik 
+   * **Nomen:** (Sprache, Grammatik, Orthografie), Literatur, Kultur, Zahl, Variable, Form, Raum, Grössen, Funktion, Zufall, Identität, Körper, Gesundheit, Tiere, Planzen, Stoff, Energie, Bewegung, Natur, Technik, Konsum, Leben, Lebensweise, Lebensraum, Räume, Zeit, Dauer, Wandel, Gemeinschaft, Gesellschaft, Grunderfahrungen, Werte, Normen, Religionen, Weltsichten, (Musik, Musiktheorie) 
 
-(4 Zyklen + 16 Verben + 35 Nomen + 4 Bereiche + 22 Teilfächer = 81 Wörter!!! )
+(4 Zyklen + 19 Verben + 35 Nomen + 4 Bereiche + 22 Teilfächer = 82 Wörter )
+
+Daraus ergeben sich (zumindest rechnerisch) fast 700 "Kompetenz-Sätze"!
+ 
 
 Vergleiche mit der Wegleitung der FNHW:
 http://imedias.ch/myUploadData/files/Didaktische_Wegleitung.pdf
 
 Die Tags erscheinen in obiger Reihenfolge:
 
-   * Zyklus | Bereich | Fach | Nomen | Verben
+   * "Zyklus | Bereich | Fach | Nomen | Verben"
 
 
 Also zum Beispiel:
 
-   * Primar-1 Primar-2 | Sprachen | Deutsch | Sprache Literatur | lesen schreiben (Antolin) 
+   * "Primar-1 Primar-2 | Sprachen | Deutsch | Sprache Literatur | lesen schreiben" (Antolin) 
    
-   * Primar-2 | NMG | Geschichte | Räume Zeit Wandel | erforschen   (kinderzeitmaschine)
+   * "Primar-2 | NMG | Geschichte | Räume Zeit Wandel | erforschen"   (Kinderzeitmaschine)
+
+   # "Primar-1 | Mathematik | Arithmetik | Zahl Variable | operieren üben" (Tux-Math)
 
