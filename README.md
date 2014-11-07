@@ -80,19 +80,19 @@ Die Programme sind mit Begriffen auf dem Lehrplan 21 getagt!
    * Bewegen, Tanzen				  **MU.3**
    * Musizieren					  **MU.4**
    * Gestalten					  **MU.5**
-   * Praxis					  **MU.6**
+   * Musiklehre 			          **MU.6**
 
 Daraus ergibt sich folgendes Vokabular:
 
-   * **Zyklen:** z1, z2, z3, z4
+   * **Zyklen:** Primar-1, Primar-2, Sekundar-1, Sekundar-2
 
    * **Bereiche:** Sprachen, Mathematik, NMG, Gestalten
 
    * **Fächer:** Deutsch, Französisch, English, Arithmetik, Geometrie, Statistik, Biologie, Psychologie, Chemie, Physik, Geologie, Wirtschaft, Ökologie, Ökonomie, Geografie, Astronomie, Geschichte, Soziologie, Ethik, Philosofie, Musik, Zeichnen, Werken
 
-   * **Verben:** hören, lesen, sprechen, schreiben, singen, bewegen, tanzen, musizieren, gestalten, operieren, benennen, erforschen, argumentieren, mathematisieren, darstellen, erklären
+   * **Verben:** hören, lesen, sprechen, schreiben, singen, bewegen, tanzen, musizieren, gestalten, operieren, benennen, erforschen, argumentieren, mathematisieren, darstellen, erklären, herstellen
 
-   * **Nomen:** Sprache, Literatur, Kultur, Zahl, Variable, Form, Raum, Grössen, Funktion, Zufall, Identität, Körper, Gesundheit, Tiere, Planzen, Stoff, Energie, Bewegung, Natur, Technik, Konsum. Leben, Lebensweise, Lebensraum, Räume, Zeit, Dauer, Wandel, Gemeinschaft, Gesellschaft, Grunderfahrungen, Werte, Normen, Religionen, Weltsichten 
+   * **Nomen:** Sprache, Literatur, Kultur, Zahl, Variable, Form, Raum, Grössen, Funktion, Zufall, Identität, Körper, Gesundheit, Tiere, Planzen, Stoff, Energie, Bewegung, Natur, Technik, Konsum, Leben, Lebensweise, Lebensraum, Räume, Zeit, Dauer, Wandel, Gemeinschaft, Gesellschaft, Grunderfahrungen, Werte, Normen, Religionen, Weltsichten, Musiklehre 
 
 (4 Zyklen + 16 Verben + 35 Nomen + 4 Bereiche + 22 Teilfächer = 81 Wörter!!! )
 
