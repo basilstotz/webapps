@@ -84,6 +84,8 @@ Die Programme sind mit Begriffen auf dem Lehrplan 21 getagt!
 
 Daraus ergibt sich folgendes Vokabular:
 
+   * **Zyklen:** z1, z2, z3, z4
+
    * **Verben:** hören, lesen, sprechen, schreiben, singen, bewegen, tanzen, musizieren, gestalten
    * **Nomen:** Sprache, Literatur, Kultur, Zahl, Variable, Form, Raum, Grössen, Funktion, Zufall, Identität, Körper, Gesundheit, Tiere, Planzen, Stoff, Energie, Bewegung, Natur, Technik, Konsum. Leben, Lebensweise, Lebensraum, Räume, Zeit, Dauer, Wandel, Gemeinschaft, Gesellschaft, Grunderfahrungen, Werte, Normen, Religionen, Weltsichten 
 
