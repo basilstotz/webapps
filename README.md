@@ -16,17 +16,17 @@ Das Packet benötigt: node, node-webkit und google-chrome
 ## Lehrplan
 
 ### Zyklen:
-   * 1. Zyklus: KG, K1, K2 (4 bis 8 Jahre)
-   * 2. Zyklus: K3, K4, K5, K6 (9-12 Jahre)
-   * 3. Zyklus: K7, K8, K9 (13-15 Jahre)
-   * 4: Zyklus: K10, K11, K12 (16-19 Jahre)
-
+   * 1. Zyklus: KG, K1, K2 (4 bis 8 Jahre) **Z.1**
+   * 2. Zyklus: K3, K4, K5, K6 (9-12 Jahre) **Z.2**
+   * 3. Zyklus: K7, K8, K9 (13-15 Jahre) **Z.3**
+   * 4: Zyklus: K10, K11, K12 (16-19 Jahre) **Z.4**
+.
 ### Kompetenzbereiche
-   * Sprachen: Deutsch, Französisch, Englisch
-   * Mathematik
-   * Natur, Mensch und Gesellschaft: Biologie, Chemie, Physik, Geografie, Ethik, Geschichte
-   * Musik
-   * ICT, Technik und Verkehr
+   * **Sprachen:** Deutsch, Französisch, Englisch
+   * **Mathematik**
+   * **Natur, Mensch und Gesellschaft:** Biologie, Chemie, Physik, Geografie, Ethik, Geschichte
+   * **Musik**
+   * **ICT, Technik**
 
 
 #### Kompetenzbereich Sprachen
