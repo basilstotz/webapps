@@ -24,14 +24,8 @@ Die Programme sind mit Begriffen auf dem Lehrplan 21 getagt!
    * 4: Zyklus: K10, K11, K12 (16-19 Jahre) **Z.4**
 
 ### Kompetenzbereiche
-   * **Sprachen:** Deutsch, Französisch, Englisch
-   * **Mathematik** 
-   * **Natur, Mensch und Gesellschaft** 
-   * **Musik**
-   * **ICT, Technik**
 
-
-#### Kompetenzbereich Sprachen
+#### Kompetenzbereich: Sprachen
 
 #####   Deutsch: 
    * Hören                                        **DE.1**
@@ -57,14 +51,14 @@ Die Programme sind mit Begriffen auf dem Lehrplan 21 getagt!
    * Sprache(n im Fokus) (Orthografie, Grammatik) **EN.5** (FS2F.5)
    * Kultur(en im Fokus)                          **EN.6** (FS2F.6)
 
-#### Kompetenzbereich Mathematik
+#### Kompetenzbereich: Mathematik
 
    * Zahl, Variable			          **MA.1**   (Arithmetik)
    * Form, Raum 				  **MA.2**   (Geometrie)
    * Grössen, Funktion, Daten, Zufall             **MA.3**   (Statistik)
 
 
-#### Kompetenzbereich Natur, Mensch, Gesellschaft
+#### Kompetenzbereich: Natur, Mensch, Gesellschaft
 
    * Identität, Körper, Gesundheit		  **NMG.1**   (Biologie, Psychologie)
    * Tiere, Pflanzen				  **NMG.2**   (Biologie, Chemie)
@@ -79,7 +73,7 @@ Die Programme sind mit Begriffen auf dem Lehrplan 21 getagt!
    * Grunderfahrungen, Werte, Normen		  **NMG.11**  (Ethik, Soziologie)
    * Religionen, Weltsichten  			  **NMG.12**  (Ethik, Geschichte, Philosophie)
    
-#### Kompetenzbereich Musik
+#### Kompetenzbereich: Musik
    
    * Singen und Sprechen		          **MU.1**
    * Hören  					  **MU.2**
@@ -88,6 +82,16 @@ Die Programme sind mit Begriffen auf dem Lehrplan 21 getagt!
    * Gestalten					  **MU.5**
    * Praxis					  **MU.6**
 
+Daraus ergibt sich folgendes Vokabular:
+
+   * **Verben:** hören, lesen, sprechen, schreiben, singen, bewegen, tanzen, musizieren, gestalten
+   * **Nomen:** Sprache, Literatur, Kultur, Zahl, Variable, Form, Raum, Grössen, Funktion, Zufall, Identität, Körper, Gesundheit, Tiere, Planzen, Stoff, Energie, Bewegung, Natur, Technik, Konsum. Leben, Lebensweise, Lebensraum, Räume, Zeit, Dauer, Wandel, Gemeinschaft, Gesellschaft, Grunderfahrungen, Werte, Normen, Religionen, Weltsichten 
+
+   * **Bereiche:** Deutsch, Französisch, Englisch, Mathematik, Natur Mensch Gesellschaft, Musik   * **Fächer:** Arithmetik, Geometrie, Statistik, Biologie, Psychologie, Chemie, Physik, Geologie, Wirtschaft, Ökologie, Ökonomie, Geografie, Astronomie, Geschichte, Soziologie, Ethik, Philosofie
+
+(4 Zyklen + 9 Verben + 35 Nomen + 6 Bereiche + 17 Teilfächer = 71 Wörter!!! )
 
 Vergleiche mit der Wegleitung der FNHW:
 http://imedias.ch/myUploadData/files/Didaktische_Wegleitung.pdf
+
+
