@@ -86,14 +86,15 @@ Daraus ergibt sich folgendes Vokabular:
 
    * **Zyklen:** z1, z2, z3, z4
 
-   * **Bereiche:** Deutsch, Französisch, Englisch, Mathematik, Natur Mensch Gesellschaft, Musik
+   * **Bereiche:** Sprachen, Mathematik, NMG, Gestalten
 
-   * **Fächer:** Arithmetik, Geometrie, Statistik, Biologie, Psychologie, Chemie, Physik, Geologie, Wirtschaft, Ökologie, Ökonomie, Geografie, Astronomie, Geschichte, Soziologie, Ethik, Philosofie
+   * **Fächer:** Deutsch, Französisch, English, Arithmetik, Geometrie, Statistik, Biologie, Psychologie, Chemie, Physik, Geologie, Wirtschaft, Ökologie, Ökonomie, Geografie, Astronomie, Geschichte, Soziologie, Ethik, Philosofie, Musik, Zeichnen, Werken
 
    * **Verben:** hören, lesen, sprechen, schreiben, singen, bewegen, tanzen, musizieren, gestalten, operieren, benennen, erforschen, argumentieren, mathematisieren, darstellen, erklären
+
    * **Nomen:** Sprache, Literatur, Kultur, Zahl, Variable, Form, Raum, Grössen, Funktion, Zufall, Identität, Körper, Gesundheit, Tiere, Planzen, Stoff, Energie, Bewegung, Natur, Technik, Konsum. Leben, Lebensweise, Lebensraum, Räume, Zeit, Dauer, Wandel, Gemeinschaft, Gesellschaft, Grunderfahrungen, Werte, Normen, Religionen, Weltsichten 
 
-(4 Zyklen + 16 Verben + 35 Nomen + 6 Bereiche + 17 Teilfächer = 78 Wörter!!! )
+(4 Zyklen + 16 Verben + 35 Nomen + 4 Bereiche + 22 Teilfächer = 81 Wörter!!! )
 
 Vergleiche mit der Wegleitung der FNHW:
 http://imedias.ch/myUploadData/files/Didaktische_Wegleitung.pdf
