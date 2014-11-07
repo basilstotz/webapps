@@ -109,9 +109,11 @@ Die Tags erscheinen in obiger Reihenfolge:
 
 Also zum Beispiel:
 
-   * "Primar-1 Primar-2 | Sprachen | Deutsch | Sprache Literatur | lesen schreiben" (Antolin) 
+   * "Primar-1 Primar-2 | Sprachen | Deutsch | Sprache Literatur | hören lesen schreiben" (Antolin) 
    
    * "Primar-2 | NMG | Geschichte | Räume Zeit Wandel | erforschen"   (Kinderzeitmaschine)
 
    * "Primar-1 | Mathematik | Arithmetik | Zahl Variable | operieren üben" (Tux-Math)
+
+   * "Primar-1 | Gestalten NMG | Räume | erforschen singen tanzen" (Kinderweltmusik) 
 
