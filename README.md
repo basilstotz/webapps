@@ -82,6 +82,8 @@ Die Programme sind mit Begriffen auf dem Lehrplan 21 getagt!
    * Gestalten					  **MU.5**
    * Musik (im Fokus) 			          **MU.6**
 
+### Vokabular
+
 Daraus ergibt sich folgendes Vokabular:
 
    * **Zyklen:** Primar-1, Primar-2, Sekundar-1, Sekundar-2
@@ -102,6 +104,9 @@ Daraus ergeben sich (zumindest rechnerisch) fast 700 "Kompetenz-Sätze"!
 Vergleiche mit der Wegleitung der FNHW:
 http://imedias.ch/myUploadData/files/Didaktische_Wegleitung.pdf
 
+
+### Tag-String
+
 Die Tags erscheinen in obiger Reihenfolge:
 
    * "Zyklus | Bereich | Fach | Nomen | Verben"
@@ -113,7 +118,7 @@ Also zum Beispiel:
    
    * "Primar-2 | NMG | Geschichte | Räume Zeit Wandel | erforschen"   (Kinderzeitmaschine)
 
-   * "Primar-1 | Mathematik | Arithmetik | Zahl Variable | operieren üben" (Tux-Math)
+   * "Primar-1 | Mathematik | Arithmetik | Zahl | operieren üben" (Tux-Math)
 
-   * "Primar-1 | Gestalten NMG | Musik Geografie | Räume | erforschen singen tanzen" (Kinderweltmusik) 
+   * "Primar-1 | Gestalten NMG | Musik Geografie | Kultur Räume | erforschen singen tanzen" (Kinderweltmusik) 
 
