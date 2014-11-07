@@ -87,7 +87,9 @@ Daraus ergibt sich folgendes Vokabular:
    * **Verben:** hören, lesen, sprechen, schreiben, singen, bewegen, tanzen, musizieren, gestalten
    * **Nomen:** Sprache, Literatur, Kultur, Zahl, Variable, Form, Raum, Grössen, Funktion, Zufall, Identität, Körper, Gesundheit, Tiere, Planzen, Stoff, Energie, Bewegung, Natur, Technik, Konsum. Leben, Lebensweise, Lebensraum, Räume, Zeit, Dauer, Wandel, Gemeinschaft, Gesellschaft, Grunderfahrungen, Werte, Normen, Religionen, Weltsichten 
 
-   * **Bereiche:** Deutsch, Französisch, Englisch, Mathematik, Natur Mensch Gesellschaft, Musik   * **Fächer:** Arithmetik, Geometrie, Statistik, Biologie, Psychologie, Chemie, Physik, Geologie, Wirtschaft, Ökologie, Ökonomie, Geografie, Astronomie, Geschichte, Soziologie, Ethik, Philosofie
+   * **Bereiche:** Deutsch, Französisch, Englisch, Mathematik, Natur Mensch Gesellschaft, Musik
+
+   * **Fächer:** Arithmetik, Geometrie, Statistik, Biologie, Psychologie, Chemie, Physik, Geologie, Wirtschaft, Ökologie, Ökonomie, Geografie, Astronomie, Geschichte, Soziologie, Ethik, Philosofie
 
 (4 Zyklen + 9 Verben + 35 Nomen + 6 Bereiche + 17 Teilfächer = 71 Wörter!!! )
 
