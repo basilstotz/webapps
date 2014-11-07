@@ -80,7 +80,7 @@ Die Programme sind mit Begriffen auf dem Lehrplan 21 getagt!
    * Bewegen, Tanzen				  **MU.3**
    * Musizieren					  **MU.4**
    * Gestalten					  **MU.5**
-   * Musiklehre 			          **MU.6**
+   * Musik (im Fokus) 			          **MU.6**
 
 Daraus ergibt sich folgendes Vokabular:
 
@@ -92,11 +92,21 @@ Daraus ergibt sich folgendes Vokabular:
 
    * **Verben:** hören, lesen, sprechen, schreiben, singen, bewegen, tanzen, musizieren, gestalten, operieren, benennen, erforschen, argumentieren, mathematisieren, darstellen, erklären, herstellen
 
-   * **Nomen:** Sprache, Literatur, Kultur, Zahl, Variable, Form, Raum, Grössen, Funktion, Zufall, Identität, Körper, Gesundheit, Tiere, Planzen, Stoff, Energie, Bewegung, Natur, Technik, Konsum, Leben, Lebensweise, Lebensraum, Räume, Zeit, Dauer, Wandel, Gemeinschaft, Gesellschaft, Grunderfahrungen, Werte, Normen, Religionen, Weltsichten, Musiklehre 
+   * **Nomen:** Sprache, Literatur, Kultur, Zahl, Variable, Form, Raum, Grössen, Funktion, Zufall, Identität, Körper, Gesundheit, Tiere, Planzen, Stoff, Energie, Bewegung, Natur, Technik, Konsum, Leben, Lebensweise, Lebensraum, Räume, Zeit, Dauer, Wandel, Gemeinschaft, Gesellschaft, Grunderfahrungen, Werte, Normen, Religionen, Weltsichten, Musik 
 
 (4 Zyklen + 16 Verben + 35 Nomen + 4 Bereiche + 22 Teilfächer = 81 Wörter!!! )
 
 Vergleiche mit der Wegleitung der FNHW:
 http://imedias.ch/myUploadData/files/Didaktische_Wegleitung.pdf
 
+Die Tags erscheinen in obiger Reihenfolge:
+
+   * Zyklus | Bereich | Fach | Nomen | Verben
+
+
+Also zum Beispiel:
+
+   * Primar-1 Primar-2 | Sprachen | Deutsch | Sprache Literatur | lesen schreiben (Antolin) 
+   
+   * Primar-2 | NMG | Geschichte | Räume Zeit Wandel | erforschen   (kinderzeitmaschine)
 
