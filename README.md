@@ -1,13 +1,16 @@
 webapps
 =======
 
+Webapp-Bundle für Primarschulen. 
+
+Die Programme und Lerninhalte werden **nicht** im Browser sondern in Node-Webkit gestartet: Dadurch sind ist nur das Programm/Inhalt zusehen ohne irgendwelche Menus und Knöpfe eines Browsers.
+
+
 ## Inhalt 
 
-Webapp-Bundle für Primarschulen.
+Auswahl der Titel entspricht etwa der des Lernsticks von der FHNW. Diese wurde um etwa 10 titel ergänzt. Die Auswahl, im Moment 38 Titel, wird laufend aktualisiert und erweitert .
 
-Auswahl entspricht etwa der des Lernsticks von der FHNW. Diese wurde um etwa 10 Angebote ergänzt. Die Auswahl wird laufend aktualisiert.
 
-Inhalt: 38 Starter
 
 ## Abhängikeiten
 
@@ -53,7 +56,7 @@ Die Programme sind mit Begriffen auf dem Lehrplan 21 getagt!
 
 #### Kompetenzbereich: Mathematik
 
-   * Zahl, Variable			          **MA.1**   (Arithmetik)
+   * Zahl, Variable			          **MA.1**   (Arithmetik, Algebra)
    * Form, Raum 				  **MA.2**   (Geometrie)
    * Grössen, Funktion, Daten, Zufall             **MA.3**   (Statistik)
 
@@ -90,13 +93,13 @@ Daraus ergibt sich folgendes Vokabular:
 
    * **Bereiche:** Sprachen, Mathematik, NMG, Gestalten
 
-   * **Fächer:** Deutsch, Französisch, English, Arithmetik, Geometrie, Statistik, Biologie, Psychologie, Chemie, Physik, Geologie, Wirtschaft, Ökologie, Ökonomie, Geografie, Astronomie, Geschichte, Soziologie, Ethik, Philosofie, Musik, Zeichnen, Werken
+   * **Fächer:** Deutsch, Französisch, English, Arithmetik, Algebra, Geometrie, Statistik, Biologie, Psychologie, Chemie, Physik, Geologie, Wirtschaft, Ökologie, Ökonomie, Geografie, Astronomie, Geschichte, Soziologie, Ethik, Philosofie, Musik, Zeichnen, Werken
 
    * **Verben:** hören, lesen, sprechen, schreiben, singen, bewegen, tanzen, musizieren, gestalten, operieren, benennen, erforschen, argumentieren, mathematisieren, darstellen, erklären, herstellen, üben, prüfen, lernen
 
-   * **Nomen:** (Sprache, Grammatik, Orthografie), Literatur, Kultur, Zahl, Variable, Form, Raum, Grössen, Funktion, Zufall, Identität, Körper, Gesundheit, Tiere, Planzen, Stoff, Energie, Bewegung, Natur, Technik, Konsum, Leben, Lebensweise, Lebensraum, Räume, Zeit, Dauer, Wandel, Gemeinschaft, Gesellschaft, Grunderfahrungen, Werte, Normen, Religionen, Weltsichten, (Musik, Musiktheorie) 
+   * **Nomen:** Sprache = (Grammatik, Orthografie), Literatur, Kultur, Zahl, Variable, Form, Raum, Grössen, Funktion, Zufall, Identität, Körper, Gesundheit, Tiere, Planzen, Stoff, Energie, Bewegung, Natur, Technik, Konsum, Leben, Lebensweise, Lebensraum, Räume, Zeit, Dauer, Wandel, Gemeinschaft, Gesellschaft, Grunderfahrungen, Werte, Normen, Religionen, Weltsichten, Musik = (Musiktheorie) 
 
-(4 Zyklen + 19 Verben + 35 Nomen + 4 Bereiche + 22 Teilfächer = 82 Wörter )
+(4 Zyklen + 19 Verben + 35 Nomen + 4 Bereiche + 23 Fächer = 83 Wörter )
 
 Daraus ergeben sich (zumindest rechnerisch) fast 700 "Kompetenz-Sätze"!
  
