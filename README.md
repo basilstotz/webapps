@@ -23,8 +23,8 @@ Das Packet benötigt: node, node-webkit und google-chrome
 
 ### Kompetenzbereiche
    * **Sprachen:** Deutsch, Französisch, Englisch
-   * **Mathematik**
-   * **Natur, Mensch und Gesellschaft:** Biologie, Chemie, Physik, Geografie, Ethik, Geschichte
+   * **Mathematik** 
+   * **Natur, Mensch und Gesellschaft:** 
    * **Musik**
    * **ICT, Technik**
 
