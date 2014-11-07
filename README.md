@@ -20,7 +20,7 @@ Das Packet benötigt: node, node-webkit und google-chrome
    * 2. Zyklus: K3, K4, K5, K6 (9-12 Jahre) **Z.2**
    * 3. Zyklus: K7, K8, K9 (13-15 Jahre) **Z.3**
    * 4: Zyklus: K10, K11, K12 (16-19 Jahre) **Z.4**
-.
+
 ### Kompetenzbereiche
    * **Sprachen:** Deutsch, Französisch, Englisch
    * **Mathematik**
