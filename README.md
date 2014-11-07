@@ -13,7 +13,9 @@ Inhalt: 38 Starter
 
 Das Packet benötigt: node, node-webkit und google-chrome
 
-## Lehrplan
+## Tags
+
+Die Programme sind mit Begriffen auf dem Lehrplan 21 getagt!
 
 ### Zyklen:
    * 1. Zyklus: KG, K1, K2 (4 bis 8 Jahre) **Z.1**
@@ -24,7 +26,7 @@ Das Packet benötigt: node, node-webkit und google-chrome
 ### Kompetenzbereiche
    * **Sprachen:** Deutsch, Französisch, Englisch
    * **Mathematik** 
-   * **Natur, Mensch und Gesellschaft:** 
+   * **Natur, Mensch und Gesellschaft** 
    * **Musik**
    * **ICT, Technik**
 
@@ -32,28 +34,28 @@ Das Packet benötigt: node, node-webkit und google-chrome
 #### Kompetenzbereich Sprachen
 
 #####   Deutsch: 
-   * Hören                                        **D.1**
-   * Lesen                                        **D.2**
-   * Sprechen                                     **D.3**
-   * Schreiben                                    **D.4**
-   * Sprache(n im Fokus) (Orthografie, Grammatik) **D.5**
-   * Literatur                                    **D.6**
+   * Hören                                        **DE.1**
+   * Lesen                                        **DE.2**
+   * Sprechen                                     **DE.3**
+   * Schreiben                                    **DE.4**
+   * Sprache(n im Fokus) (Orthografie, Grammatik) **DE.5**
+   * Literatur                                    **DE.6**
 
 #####   Französisch
-   * Hören                                        **FS1F.1**
-   * Lesen                                        **FS1F.2**
-   * Sprechen                                     **FS1F.3**
-   * Schreiben                                    **FS1F.4**
-   * (Sprachen im) Fokus (Orthografie, Grammatik) **FS1F.5**
-   * Kulturen (im Fokus)                          **FS1F.6**
+   * Hören                                        **FR.1** (FS1F.1)
+   * Lesen                                        **FR.2** (FS1F.2)
+   * Sprechen                                     **FR.3** (FS1F.3)
+   * Schreiben                                    **FR.4** (FS1F.4)
+   * Sprache(n im Fokus) (Orthografie, Grammatik) **FR.5** (FS1F.5)
+   * Kultur(en im Fokus)                          **FR.6** (FS1F.6)
 
 #####   Englisch
-   * Hören                                        **FS2F.1**
-   * Lesen                                        **FS2F.2**
-   * Sprechen                                     **FS2F.3**
-   * Schreiben                                    **FS2F.4**
-   * Sprache(n im Fokus) (Orthografie, Grammatik) **FS2F.5**
-   * Kulture(n im Fokus)                          **FS2F.6**
+   * Hören                                        **EN.1** (FS2F.1)
+   * Lesen                                        **EN.2** (FS2F.2)
+   * Sprechen                                     **EN.3** (FS2F.3)
+   * Schreiben                                    **EN.4** (FS2F.4)
+   * Sprache(n im Fokus) (Orthografie, Grammatik) **EN.5** (FS2F.5)
+   * Kultur(en im Fokus)                          **EN.6** (FS2F.6)
 
 #### Kompetenzbereich Mathematik
 
@@ -87,5 +89,5 @@ Das Packet benötigt: node, node-webkit und google-chrome
    * Praxis					  **MU.6**
 
 
-Wegleitung im Hinblick auf den Lernplan21:
+Vergleiche mit der Wegleitung der FNHW:
 http://imedias.ch/myUploadData/files/Didaktische_Wegleitung.pdf
