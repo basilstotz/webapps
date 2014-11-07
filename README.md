@@ -113,5 +113,5 @@ Also zum Beispiel:
    
    * "Primar-2 | NMG | Geschichte | Räume Zeit Wandel | erforschen"   (Kinderzeitmaschine)
 
-   # "Primar-1 | Mathematik | Arithmetik | Zahl Variable | operieren üben" (Tux-Math)
+   * "Primar-1 | Mathematik | Arithmetik | Zahl Variable | operieren üben" (Tux-Math)
 
