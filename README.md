@@ -1,7 +1,7 @@
 webapps
 =======
 
-== Inhalt == 
+## Inhalt 
 
 Webapp-Bundle für Primarschulen.
 
@@ -9,19 +9,19 @@ Auswahl entspricht etwa der des Lernsticks von der FHNW. Diese wurde um etwa 10 
 
 Inhalt: 38 Starter
 
-== Abhängikeiten ==
+## Abhängikeiten
 
 Das Packet benötigt: node, node-webkit und google-chrome
 
-== Lehrplan ==
+## Lehrplan
 
-Zyklen:
+### Zyklen:
    * 1. Zyklus: KG, K1, K2 (4 bis 8 Jahre)
    * 2. Zyklus: K3, K4, K5, K6 (9-12 Jahre)
    * 3. Zyklus: K7, K8, K9 (13-15 Jahre)
    * 4: Zyklus: K10, K11, K12 (16-19 Jahre)
 
-Kompetenzbereiche:
+### Kompetenzbereiche:
    * Sprachen: Deutsch, Französisch, Englisch
    * Mathematik
    * Natur, Mensch und Gesellschaft: Biologie, Chemie, Physik, Geografie, Ethik, Geschichte
@@ -29,9 +29,9 @@ Kompetenzbereiche:
    * ICT, Technik und Verkehr
 
 
-Kompetenzbereich Sprachen:
+#### Kompetenzbereich Sprachen:
 
-   Deutsch: 
+#####   Deutsch: 
    * Hören                                        D.1
    * Lesen                                        D.2
    * Sprechen                                     D.3
@@ -39,7 +39,7 @@ Kompetenzbereich Sprachen:
    * Sprache(n im Fokus) (Orthografie, Grammatik) D.5
    * Literatur                                    D.6
 
-   Französisch:
+#####   Französisch:
    * Hören                                        FS1F.1
    * Lesen                                        FS1F.2
    * Sprechen                                     FS1F.3
@@ -55,14 +55,14 @@ Kompetenzbereich Sprachen:
    * Sprache(n im Fokus) (Orthografie, Grammatik) FS2F.5
    * Kulture(n im Fokus)                          FS2F.6
 
-Kompetenzbereich Mathematik
+#### Kompetenzbereich Mathematik
 
    * Zahl, Variable			          MA.1   (Arithmetik)
    * Form, Raum 				  MA.2   (Geometrie)
    * Grössen, Funktion, Daten, Zufall             MA.3   (Statistik)
 
 
-Kompetenzbereich Natur, Mensch, Gesellschaft
+#### Kompetenzbereich Natur, Mensch, Gesellschaft
 
    * Identität, Körper, Gesundheit		  NMG.1   (Biologie, Psychologie)
    * Tiere, Pflanzen				  NMG.2   (Biologie, Chemie)
@@ -77,7 +77,7 @@ Kompetenzbereich Natur, Mensch, Gesellschaft
    * Grunderfahrungen, Werte, Normen		  NMG.11  (Ethik, Soziologie)
    * Religionen, Weltsichten  			  NMG.12  (Ethik, Geschichte, Philosophie)
    
-Kompetenzbereich Musik
+#### Kompetenzbereich Musik
    
    * Singen und Sprechen		          MU.1
    * Hören  					  MU.2
