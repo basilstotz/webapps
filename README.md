@@ -67,7 +67,7 @@ Die Programme sind mit Begriffen auf dem Lehrplan 21 getagt!
    * Tiere, Pflanzen				  **NMG.2**   (Biologie, Chemie)
    * Stoff, Energie, Bewegung                     **NMG.3**   (Physik, Chemie)
    * Natur                                        **NMG.4**   (Biologie, Physik, Geologie, Chemie)
-   * Technik                                      **NMG.5**   (Physik, Chemie)
+   * Technik                                      **NMG.5**   (Physik, Chemie, Soziologie)
    * Konsum, Leben				  **NMG.6**   (Wirtschaft. Ökologie, Ökologie)
    * Lebensweise, Lebensraum                      **NMG.7**   (Geografie, Soziologie)
    * Räume	  				  **NMG.8**   (Geografie, Geologie, Astromomie)
