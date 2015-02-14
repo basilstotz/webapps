@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Type=Application
+Name=Snap
+GenericName="Graphical Programming Language"
+Comment="Programieren mit Blöcken"
+Keywords="lp21 nmg computer"
+Icon=snap.png
+Exec=nw /usr/share/node/snap
+Terminal=false
+Categories=Education
