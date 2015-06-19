@@ -9,13 +9,13 @@
     "icon": "/usr/share/pixmaps/duolingo.png",
     "toolbar": false,
     "frame": true,
-    "fullscreen": true,
-//    "width": 800,   
-//    "height": 600,
-//    "position": "mouse",
-//    "min_width": 800,
-//    "min_height": 600,
-//    "max_width": 800,
+//    "fullscreen": true,
+    "width": 1024,   
+    "height": 738,
+    "position": "mouse",
+    "min_width": 800,
+    "min_height": 600
+//    "max_width": 1024,
 //    "max_height": 600
      },
   "webkit": {
