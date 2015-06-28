@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Type=Application
+Name=MiniPodium
+GenericName=Filme geschützt veröffentlichen und ansehen
+Comment=""
+Keywords="lp21 gestalten zusammenarbeiten"
+Icon=minipodium.png
+Exec=nw /usr/share/node/minipodium
+Terminal=false
+Categories=Education
