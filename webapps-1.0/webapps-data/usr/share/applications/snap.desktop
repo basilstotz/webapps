@@ -8,4 +8,4 @@ Keywords="lp21 nmg computer"
 Icon=snap.png
 Exec=nw /usr/share/node/snap
 Terminal=false
-Categories=Education
+Categories=Development
