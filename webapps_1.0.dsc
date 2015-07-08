@@ -10,8 +10,8 @@ Build-Depends: debhelper (>= 8.0.0)
 Package-List: 
  webapps deb unknown extra
 Checksums-Sha1: 
- befb38610dc9cdeffd58a152ac6e6d46bb3a88e6 988207 webapps_1.0.tar.gz
+ d88bb6d7d6534f2d114dbc8a01386e64bb8ecb0c 988199 webapps_1.0.tar.gz
 Checksums-Sha256: 
- 0ad732117a6e88e746653b3a0eb1b5d97e8990a9aa435f52e72f1f38cc7327e7 988207 webapps_1.0.tar.gz
+ 6e72b24bb7c214be98c7f8506a660279cb46fbfd764f955522c0cb9dc417e88d 988199 webapps_1.0.tar.gz
 Files: 
- 6b397173a6d8b09715f922885dcd87c7 988207 webapps_1.0.tar.gz
+ d2e04a5efc43a98c4c9a6898506ad609 988199 webapps_1.0.tar.gz
