@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Type=Application
+Name=Code.org
+GenericName=Code.org
+Comment="Lerne Programieren"
+Keywords="lp21 computer programmieren"
+Icon=code.org.png
+Exec=nw /usr/share/node/code.org
+Terminal=false
+Categories=Education
