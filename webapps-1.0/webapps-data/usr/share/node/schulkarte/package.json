@@ -1,0 +1,22 @@
+{
+  "main": "http://www.anhbl.ch/start/index.html?plain=true",
+  "name": "schulkarte",
+  "description": "schulkarte",
+  "version": "0.1.0",
+  "keywords": [  ],
+  "window": {
+    "title": "Schulkarte",
+    "icon": "/usr/share/pixmaps/schulkarte.png",
+    "toolbar": false,
+    "frame": true,
+    "width": 800,   
+    "height": 600,
+    "position": "mouse",
+    "min_width": 800,
+    "min_height": 600
+     },
+  "webkit": {
+    "plugin": true,
+    "page-cache": true
+  }
+}

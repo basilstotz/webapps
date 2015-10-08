@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Type=Application
+Name=Schulkarte
+GenericName=Schulkarte
+Comment="Schulkarte mit ÖV"
+Keywords="lp21 raum nmg"
+Icon=schulkarte.png
+Exec=nw /usr/share/node/schulkarte
+Terminal=false
+Categories=Education
