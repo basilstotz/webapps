@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Type=Application
+Name=Flickr
+GenericName=Leo
+Comment="Bildersuche"
+Keywords="lp21 nmg gestalten"
+Icon=flickr.png
+Exec=nw /usr/share/node/flickr/
+Terminal=false
+Categories=Education

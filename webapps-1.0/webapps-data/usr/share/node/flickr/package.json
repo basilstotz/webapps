@@ -1,0 +1,22 @@
+{
+  "main": "https://www.flickr.com/search/?license=2%2C3%2C4%2C5%2C6%2C9&text=&advanced=1",
+  "name": "flickr",
+  "description": "Bildersuche",
+  "version": "0.1.0",
+  "keywords": [  ],
+  "window": {
+    "title": "Leo",
+    "icon": "/usr/share/pixmaps/flickr.png",
+    "toolbar": false,
+    "frame": true,
+    "width": 800,   
+    "height": 600,
+    "position": "mouse",
+    "min_width": 800,
+    "min_height": 600
+     },
+  "webkit": {
+    "plugin": true,
+    "page-cache": true
+  }
+}
