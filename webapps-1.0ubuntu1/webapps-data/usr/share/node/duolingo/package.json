@@ -1,0 +1,25 @@
+{
+  "main": "http://www.duolingo.com",
+  "name": "duolingo",
+  "description": "learn languages ",
+  "version": "0.1.0",
+  "keywords": [  ],
+  "window": {
+    "title": "Duolingo",
+    "icon": "/usr/share/pixmaps/duolingo.png",
+    "toolbar": false,
+    "frame": true,
+//    "fullscreen": true,
+    "width": 1024,   
+    "height": 738,
+    "position": "mouse",
+    "min_width": 800,
+    "min_height": 600
+//    "max_width": 1024,
+//    "max_height": 600
+     },
+  "webkit": {
+    "plugin": true,
+    "page-cache": true
+  }
+}

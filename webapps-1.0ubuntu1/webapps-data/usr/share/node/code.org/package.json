@@ -1,0 +1,24 @@
+{
+  "main": "http://code.org",
+  "name": "code.org",
+  "description": "Progamieren leren",
+  "version": "0.1.0",
+  "keywords": [  ],
+  "window": {
+    "title": "Code.org",
+    "icon": "/usr/share/pixmaps/code.org.png",
+    "toolbar": false,
+    "frame": true,
+    "width": 1024,   
+    "height": 738,
+    "position": "mouse",
+    "min_width": 800,
+    "min_height": 600
+    //"max_width": 12,
+    //"max_height": 600
+     },
+  "webkit": {
+    "plugin": true,
+    "page-cache": true
+  }
+}

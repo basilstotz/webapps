@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Type=Application
+Name=Musikwissenschaften
+GenericName=Musikwissenschaften
+Comment="Übungen zur Gehörbildung"
+Keywords="lp21 musik hören singen"
+Icon=musikwissenschaften.png
+Exec=/usr/share/bin/webapps http://www.musikwissenschaften.de/kids/
+Terminal=false
+Categories=Education

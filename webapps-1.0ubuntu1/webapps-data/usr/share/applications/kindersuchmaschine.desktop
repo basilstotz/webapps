@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Type=Application
+Name=Kinder Suchmaschine
+GenericName=Kinder Suchmaschine
+Comment=Die Suchmaschine für Kinder
+Keywords="lp21 ict medien"
+Icon=kindersuchmaschine.png
+Exec=/usr/share/bin/webapps http://www.kindersuchmaschine.net
+Terminal=false
+Categories=Education

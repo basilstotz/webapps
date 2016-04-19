@@ -10,6 +10,7 @@ Homepage: <insert the upstream URL, if relevant>
 
 Package: webapps
 Architecture: all
-Depends: ${misc:Depends}
-Description: <insert up to 60 chars description>
- <insert long description, indented with spaces>
+Depends: chromium-browser,${misc:Depends}
+Description: launchers for webapps 
+ launchers for webapps 
+

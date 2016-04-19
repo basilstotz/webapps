@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Type=Application
+Name=Sumo Paint
+GenericName=Sumo Paint
+Comment="Online Bildbearbeitung"
+Keywords="lp21 gestalten"
+Icon=sumopaint.png
+Exec=/usr/share/bin/webapps "http://www.sumoware.com/app/?target"
+Terminal=false
+Categories=Education

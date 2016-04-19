@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Type=Application
+Name=Kinderweltmusik
+GenericName=Kinderweltmusik
+Comment="Ein Multimediale Weltkarte der Kindermusik"
+Keywords="lp21 musik hören"
+Icon=kinderweltmusik.png
+Exec=/usr/share/bin/webapps http://www.weltmusik-fuer-kinder.de
+Terminal=false
+Categories=Education

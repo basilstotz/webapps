@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Type=Application
+Name=Flubidux
+GenericName=Flubidux
+Comment="Flubidux und die Tönebox"
+Keywords="lp21 musik hören"
+Icon=flubidux.png
+Exec=nw /usr/share/node/flubidux
+Terminal=false
+Categories=Education

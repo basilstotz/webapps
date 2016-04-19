@@ -1,0 +1,24 @@
+{
+  "main": "http://www.kinderzeitmaschine.de",
+  "name": "kinderzeitmaschine",
+  "description": "Geschichte erleben",
+  "version": "0.1.0",
+  "keywords": [  ],
+  "window": {
+    "title": "<kinderzeitmaschine",
+    "icon": "/usr/share/pixmaps/kinderzeitmaschine.png",
+    "toolbar": false,
+    "frame": true,
+    "fullscreen": true,
+    "width": 800,   
+    "height": 600,
+    "position": "mouse",
+    "min_width": 800,
+    "min_height": 600,
+    "max_width": 2800,
+    "max_height": 2600
+     },
+  "webkit": {
+    "plugin": true
+  }
+}

@@ -1,0 +1,15 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Name=New World 2
+Name[de]=New World 2 
+GenericName[de]=Englisch lernen
+Comment[de]=Englisch lernen
+#Exec=nw /usr/share/prop/newworld/2/
+Exec=/usr/share/bin/webapps file:///usr/share/prop/newworld/2/lmplayer.html
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=newworld2.png
+Categories=Education;
+Keywords="lp21 sprachen englisch z2 hören lesen"

@@ -1,0 +1,22 @@
+{
+  "main": "http://www.leo.org",
+  "name": "flubidux",
+  "description": "wörterbücher",
+  "version": "0.1.0",
+  "keywords": [  ],
+  "window": {
+    "title": "Leo",
+    "icon": "/usr/share/pixmaps/leo.png",
+    "toolbar": false,
+    "frame": true,
+    "width": 800,   
+    "height": 600,
+    "position": "mouse",
+    "min_width": 800,
+    "min_height": 600
+     },
+  "webkit": {
+    "plugin": true,
+    "page-cache": true
+  }
+}

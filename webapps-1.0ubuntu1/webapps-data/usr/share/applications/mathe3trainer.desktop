@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Type=Application
+Name=Mathe3Trainer
+GenericName=Mathe3Trainer
+Comment="Mathe üben 3 .Klasse"
+Keywords="lp21 z2 mathematik zahl variable"
+Icon=mathe3trainer.png
+Exec=nw /usr/share/node/mathe3trainer
+Terminal=false
+Categories=Education

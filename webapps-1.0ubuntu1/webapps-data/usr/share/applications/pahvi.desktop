@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Type=Application
+Name=Pahvi
+GenericName=Gemeinsame Präsentationen auf dem Whiteboard
+Comment=""
+Keywords="lp21 schreiben gestalten zusammenarbeiten"
+Icon=pahvi.png
+Exec=nw /usr/share/node/pahvi
+Terminal=false
+Categories=Education
