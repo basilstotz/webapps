@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Wed, 20 Apr 2016 11:52:01 +0200
+Source: webapps
+Binary: webapps
+Architecture: source all
+Version: 1.0-1ubuntu2
+Distribution: precise
+Urgency: low
+Maintainer: Basil Stotz <stotz@amxa.ch>
+Changed-By: root <root@bootserver.amxa.opinys.fi>
+Description: 
+ webapps    - <insert up to 60 chars description>
+Changes: 
+ webapps (1.0-1ubuntu2) precise; urgency=low
+ .
+   * removed newworldX.desktop
+Checksums-Sha1: 
+ 49cb592f0b7ea2056b8ab75c4702fa73d860ebea 570 webapps_1.0-1ubuntu2.dsc
+ ef572e0f6c46512aee42735822feaf3c3e40679d 1049153 webapps_1.0-1ubuntu2.tar.gz
+ 352a2a00386b18889d5d0b7166074354a279df2a 1042146 webapps_1.0-1ubuntu2_all.deb
+Checksums-Sha256: 
+ 4603dc016aa6f93f86f76b41e5ec93f7106df5ce84768969cb03f3a5c7ec73a1 570 webapps_1.0-1ubuntu2.dsc
+ ecc616e9ca3f3c1196f0c186082811b506579881d6cd41af10ab0b51e461e2a7 1049153 webapps_1.0-1ubuntu2.tar.gz
+ 278fba1d39a62942e42d644662cc773e818305400a469af4cc01d5157c4b2f6c 1042146 webapps_1.0-1ubuntu2_all.deb
+Files: 
+ 2d2c6990b9fda6884eb2c8d37fd73b16 570 unknown extra webapps_1.0-1ubuntu2.dsc
+ d27d1100c5f800404da5f31384bff9a4 1049153 unknown extra webapps_1.0-1ubuntu2.tar.gz
+ ea19a472a7e7430f3cc55dd2f5ac7101 1042146 unknown extra webapps_1.0-1ubuntu2_all.deb

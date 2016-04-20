@@ -1,3 +1,9 @@
+webapps (1.0-1ubuntu2) precise; urgency=low
+
+  * removed newworldX.desktop 
+
+ -- root <root@bootserver.amxa.opinys.fi>  Wed, 20 Apr 2016 11:52:01 +0200
+
 webapps (1.0-1ubuntu1) precise; urgency=low
 
     * with versions 
