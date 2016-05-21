@@ -1,9 +1,9 @@
 #!/usr/bin/env xdg-open
 [Desktop Entry]
 Type=Application
-Name=Mathe4Trainer
-GenericName=Mathe4Trainer
-Comment="Mathe üben 4.Klasse"
+Name=Mathe5Trainer
+GenericName=Mathe5Trainer
+Comment="Mathe üben 5.Klasse"
 Keywords="lp21 z2 mathematik zahl variable"
 Icon=mathe5trainer.png
 Exec=nw /usr/share/node/mathe5trainer

@@ -1,11 +1,13 @@
 [Desktop Entry]
 Categories=Education;
-Exec=againstallodds
+Exec=/usr/share/bin/againstallodds
 Icon=againstallodds
 Name=Against all odds (online)
+Name[en]=Against all odds (online)
 Name[de]=Last Exit Flucht (online)
 Name[fr]=Envers et contre tout (online)
 Name[es]=Contra viento y marea (online)
 GenericName=Game about refugees and human rights
+GenericName[en]=Game about refugees and human rights
 GenericName[de]=Spiel zum Thema Flucht und Menschenrechte
 Type=Application

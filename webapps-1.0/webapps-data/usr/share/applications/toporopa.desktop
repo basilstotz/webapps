@@ -1,6 +1,6 @@
 [Desktop Entry]
 Categories=Geography;
-Exec=toporopa
+Exec=/usr/share/bin/toporopa
 Icon=toporopa
 Name=Toporopa (online)
 GenericName=European geography

@@ -1,3 +1,9 @@
+webapps (1.0-1ubuntu5) precise; urgency=low
+
+  * typos
+
+ -- root <root@bootserver.amxa.opinys.fi>  Sat, 21 May 2016 18:09:19 +0200
+
 webapps (1.0-1ubuntu4) precise; urgency=low
 
   * added: mathe{5,6}trianer, againstallodds etc
