@@ -1,0 +1,17 @@
+#!/bin/sh
+SHORT_LANG="$(echo $LANG | awk -F_ '{print $1}')"
+
+case "${SHORT_LANG}" in
+	de)
+		/usr/share/bin/webapps http://www.cooldriving.ch/de/index.htm
+		;;
+	fr)
+		/usr/share/bin/webapps http://www.cooldriving.ch/fr/index.htm
+		;;
+	it)
+		/usr/share/bin/webapps http://www.cooldriving.ch/it/index.htm
+		;;
+	*)
+		/usr/share/bin/webapps http://www.cooldriving.ch/en/index.htm
+		;;
+esac

@@ -1,0 +1,18 @@
+
+	#!/bin/sh
+SHORT_LANG="$(echo $LANG | awk -F_ '{print $1}')"
+
+case "${SHORT_LANG}" in
+	de)
+		/usr/share/bin/webapps http://www.lastexitflucht.org/againstallodds/
+		;;
+	es)
+		/usr/share/bin/webapps http://www.contravientoymarea.org/
+		;;
+	fr)
+		/usr/share/bin/webapps http://www.enversetcontretout.org/
+		;;
+	*)
+		/usr/share/bin/webapps http://www.playagainstallodds.com
+		;;
+esac

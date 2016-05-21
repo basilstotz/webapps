@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Sat, 21 May 2016 17:56:15 +0200
+Source: webapps
+Binary: webapps
+Architecture: source all
+Version: 1.0-1ubuntu4
+Distribution: precise
+Urgency: low
+Maintainer: Basil Stotz <stotz@amxa.ch>
+Changed-By: root <root@bootserver.amxa.opinys.fi>
+Description: 
+ webapps    - <insert up to 60 chars description>
+Changes: 
+ webapps (1.0-1ubuntu4) precise; urgency=low
+ .
+   * added: mathe{5,6}trianer, againstallodds etc
+Checksums-Sha1: 
+ e8801edd90e0645c405d8c811e5cdf43c3f4bbc6 570 webapps_1.0-1ubuntu4.dsc
+ 6058c95f2308060c2ffc6d23fb31b6c7c6f6549a 1165856 webapps_1.0-1ubuntu4.tar.gz
+ cf4f7d8a6ea0e87afdf6e72495daa95e176fcaa6 1161586 webapps_1.0-1ubuntu4_all.deb
+Checksums-Sha256: 
+ a2d0c5e1e5780a951b1b1081542266e7173186ebc272f3b053e9a67ed65ff2e3 570 webapps_1.0-1ubuntu4.dsc
+ 60ec9579d903193a63c18c731622265069d9ccdcb04c30c610a0e92ecc39e1e9 1165856 webapps_1.0-1ubuntu4.tar.gz
+ be8728a3efa49c9ab3770b94fb3f36ccd24c8eaa871cd36d92a46f7137ce1fb7 1161586 webapps_1.0-1ubuntu4_all.deb
+Files: 
+ 50caa025461e34a5cfe6ffb80bcef207 570 unknown extra webapps_1.0-1ubuntu4.dsc
+ 5017a38560fe07fa05c71560f5d6403b 1165856 unknown extra webapps_1.0-1ubuntu4.tar.gz
+ 6a8e97da8dbd462c9cf2c2268ec1db12 1161586 unknown extra webapps_1.0-1ubuntu4_all.deb

@@ -1,3 +1,15 @@
+webapps (1.0-1ubuntu4) precise; urgency=low
+
+  * added: mathe{5,6}trianer, againstallodds etc
+
+ -- root <root@bootserver.amxa.opinys.fi>  Sat, 21 May 2016 17:56:15 +0200
+
+webapps (1.0-1ubuntu3) precise; urgency=low
+
+  * just newversion
+
+ -- root <root@bootserver.amxa.opinys.fi>  Wed, 20 Apr 2016 11:56:04 +0200
+
 webapps (1.0-1ubuntu2) precise; urgency=low
 
   * removed newworldX.desktop 
