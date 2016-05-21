@@ -1,11 +1,13 @@
 #!/usr/bin/env xdg-open
 [Desktop Entry]
 Type=Application
-Name=Cool Driving
+Name[de]=Cool Driving
+Name[fr]=Cool Driving
+Name[it]=Cool Driving
 GenericName= Cool Driving
 Comment="Verkehrtheorie für Velofahrer"
 Keywords="lp21 mng verkehr technik"
 Icon=cool-driving.png
-Exec=/usr/share/bin/webapps http://www.cooldriving.ch/flashCycle/cool02MX.swf
+Exec=/usr/share/bin/cooldriving
 Terminal=false
 Categories=Education
