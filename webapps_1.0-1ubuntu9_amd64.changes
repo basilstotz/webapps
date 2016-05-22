@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Sun, 22 May 2016 18:10:53 +0200
+Source: webapps
+Binary: webapps
+Architecture: source all
+Version: 1.0-1ubuntu9
+Distribution: precise
+Urgency: low
+Maintainer: Basil Stotz <stotz@amxa.ch>
+Changed-By: root <root@bootserver.amxa.opinys.fi>
+Description: 
+ webapps    - <insert up to 60 chars description>
+Changes: 
+ webapps (1.0-1ubuntu9) precise; urgency=low
+ .
+   * somechanges
+Checksums-Sha1: 
+ 238c4478e41f3beb3f95080fa0dafefda63070bf 570 webapps_1.0-1ubuntu9.dsc
+ 20f972a6086045ca3941db964724432f202f3c1d 1202063 webapps_1.0-1ubuntu9.tar.gz
+ 50c8f8783edc493068e998ea265f1c3dd5101d4a 1197770 webapps_1.0-1ubuntu9_all.deb
+Checksums-Sha256: 
+ b0380f4d47b0fdea272225b05a9a4917c6a5f6bd1a397b0aac3771c738048046 570 webapps_1.0-1ubuntu9.dsc
+ e8b1d749c4f70e2240192affad7571a2294947729dfe59695e841bb872a0dcdf 1202063 webapps_1.0-1ubuntu9.tar.gz
+ 23ea1b12f1b7d11c96d3f632273af331414095b9b70421f2592cfd4dc1aca2ee 1197770 webapps_1.0-1ubuntu9_all.deb
+Files: 
+ dab28a2400927fd778be03422a83c95a 570 unknown extra webapps_1.0-1ubuntu9.dsc
+ 662a834214b019d9cb8487c3b428ad5b 1202063 unknown extra webapps_1.0-1ubuntu9.tar.gz
+ 3f283eca6abe03356718e9cda4a92ed1 1197770 unknown extra webapps_1.0-1ubuntu9_all.deb
