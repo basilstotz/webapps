@@ -1,3 +1,15 @@
+webapps (1.0-1ubuntu11) precise; urgency=low
+
+  * newbuild
+
+ -- root <root@bootserver.amxa.opinys.fi>  Tue, 24 May 2016 09:30:01 +0200
+
+webapps (1.0-1ubuntu10) precise; urgency=low
+
+  * added xosview.png
+
+ -- root <root@bootserver.amxa.opinys.fi>  Mon, 23 May 2016 17:55:30 +0200
+
 webapps (1.0-1ubuntu9) precise; urgency=low
 
   * somechanges

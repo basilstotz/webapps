@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Tue, 24 May 2016 09:30:01 +0200
+Source: webapps
+Binary: webapps
+Architecture: source all
+Version: 1.0-1ubuntu11
+Distribution: precise
+Urgency: low
+Maintainer: Basil Stotz <stotz@amxa.ch>
+Changed-By: root <root@bootserver.amxa.opinys.fi>
+Description: 
+ webapps    - <insert up to 60 chars description>
+Changes: 
+ webapps (1.0-1ubuntu11) precise; urgency=low
+ .
+   * newbuild
+Checksums-Sha1: 
+ d1d222b86d0a8a8e44a95dc314142a5b4d49c289 574 webapps_1.0-1ubuntu11.dsc
+ c7b22cd7d181a70d1e3ce58f7b9b50e479a2cff2 1204210 webapps_1.0-1ubuntu11.tar.gz
+ 4519e36139bd7c630e535571178ae4ab2336aea0 1199982 webapps_1.0-1ubuntu11_all.deb
+Checksums-Sha256: 
+ e499c2c40837f8b069819ddd364e7489a8bfbe89ae6833de9f89a19e5b9a8fb5 574 webapps_1.0-1ubuntu11.dsc
+ d4aedca2332751a9f52cacdd21cfd6fe6aee53c298895615e66f0e9cf3792dce 1204210 webapps_1.0-1ubuntu11.tar.gz
+ cffb42fcf80d5afd9ba87ab0d3791e531a3c209461b53df960efc5be02ec16c7 1199982 webapps_1.0-1ubuntu11_all.deb
+Files: 
+ 53bb72a539684821fcc8f19a8ec63967 574 unknown extra webapps_1.0-1ubuntu11.dsc
+ 5abeff8c8559473166148da51554b1bb 1204210 unknown extra webapps_1.0-1ubuntu11.tar.gz
+ 8d8970ab5d6aca5bef73bd00f82c1eb5 1199982 unknown extra webapps_1.0-1ubuntu11_all.deb
