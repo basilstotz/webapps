@@ -6,7 +6,6 @@
   "keywords": [  ],
   "window": {
     "title": "Blockly",
-    "icon": "/usr/share/pixmaps/blockly.png",
     "toolbar": false,
     "frame": true,
     "width": 800,   

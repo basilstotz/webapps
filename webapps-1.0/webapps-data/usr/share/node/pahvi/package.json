@@ -6,7 +6,6 @@
   "keywords": [  ],
   "window": {
     "title": "Pahvi",
-    "icon": "/usr/share/pixmaps/pahvi.png",
     "toolbar": false,
     "frame": true,
     "width": 800,   

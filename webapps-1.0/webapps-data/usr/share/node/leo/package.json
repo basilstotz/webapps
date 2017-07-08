@@ -6,7 +6,6 @@
   "keywords": [  ],
   "window": {
     "title": "Leo",
-    "icon": "/usr/share/pixmaps/leo.png",
     "toolbar": false,
     "frame": true,
     "width": 800,   

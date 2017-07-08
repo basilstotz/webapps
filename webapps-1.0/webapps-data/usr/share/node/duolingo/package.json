@@ -6,7 +6,6 @@
   "keywords": [  ],
   "window": {
     "title": "Duolingo",
-    "icon": "/usr/share/pixmaps/duolingo.png",
     "toolbar": false,
     "frame": true,
 //    "fullscreen": true,

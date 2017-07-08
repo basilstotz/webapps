@@ -6,7 +6,6 @@
   "keywords": [  ],
   "window": {
     "title": "nw-starter",
-    "icon": "nw-starter.png",
     "toolbar": false,
     "frame": true,
     "width": 990,   

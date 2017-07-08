@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Sat, 08 Jul 2017 10:43:01 +0200
+Source: webapps
+Binary: webapps
+Architecture: source all
+Version: 1.0-1ubuntu13
+Distribution: UNRELEASED
+Urgency: medium
+Maintainer: Basil Stotz <stotz@amxa.ch>
+Changed-By: Stotz Basil <stotz.basil@basil-lap.basel.opinsys.fi>
+Description: 
+ webapps    - <insert up to 60 chars description>
+Changes: 
+ webapps (1.0-1ubuntu13) UNRELEASED; urgency=medium
+ .
+   * removed icons from nw package.json
+Checksums-Sha1: 
+ 7c535f4c6dcc07bf544dc6625b002e361b5856f2 574 webapps_1.0-1ubuntu13.dsc
+ 47b79591b0984fe0b2c452505082969af410e743 1213528 webapps_1.0-1ubuntu13.tar.gz
+ 93e3514572c35579407c77e33dd40a44fac62f34 1188230 webapps_1.0-1ubuntu13_all.deb
+Checksums-Sha256: 
+ bce08a4229f693eebeffea7b75aefecd318855e68cdf5ad968b51083687d0ed2 574 webapps_1.0-1ubuntu13.dsc
+ a9d30f12a8a7c1767900241866b4532a495902f53692ac5d0357e9fa7ac73eaf 1213528 webapps_1.0-1ubuntu13.tar.gz
+ 6894e2d3e558eda8941492da2d8e3522a2456426d1c8b1d50eb70dc56e86b0b0 1188230 webapps_1.0-1ubuntu13_all.deb
+Files: 
+ 1fa983786b7889bd28851a233d2227a7 574 unknown extra webapps_1.0-1ubuntu13.dsc
+ 81bcd3a335144848c19430e56350873c 1213528 unknown extra webapps_1.0-1ubuntu13.tar.gz
+ 99b4dad38440f14c9e21242a8c8313cd 1188230 unknown extra webapps_1.0-1ubuntu13_all.deb

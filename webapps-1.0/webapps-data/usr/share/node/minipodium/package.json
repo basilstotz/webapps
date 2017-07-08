@@ -6,7 +6,6 @@
   "keywords": [  ],
   "window": {
     "title": "MiniPodium",
-    "icon": "/usr/share/pixmaps/minipodium.png",
     "toolbar": false,
     "frame": true,
     "width": 800,   

@@ -6,7 +6,6 @@
   "keywords": [  ],
   "window": {
     "title": "Flubidux",
-    "icon": "/usr/share/pixmaps/flubidux.png",
     "toolbar": false,
     "frame": true,
     "width": 800,   

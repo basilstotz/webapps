@@ -6,7 +6,6 @@
   "keywords": [  ],
   "window": {
     "title": "Bodenreise",
-    "icon": "/usr/share/pixmaps/bodenreise.png",
     "toolbar": false,
     "frame": true,
     "position": "mouse",

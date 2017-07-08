@@ -6,7 +6,6 @@
   "keywords": [  ],
   "window": {
     "title": "<kinderzeitmaschine",
-    "icon": "/usr/share/pixmaps/kinderzeitmaschine.png",
     "toolbar": false,
     "frame": true,
     "fullscreen": true,

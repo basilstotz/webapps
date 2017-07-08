@@ -6,7 +6,6 @@
   "keywords": [  ],
   "window": {
     "title": "Code.org",
-    "icon": "/usr/share/pixmaps/code.org.png",
     "toolbar": false,
     "frame": true,
     "width": 1024,   

@@ -6,7 +6,6 @@
   "keywords": [  ],
   "window": {
     "title": "Schulkarte",
-    "icon": "/usr/share/pixmaps/schulkarte.png",
     "toolbar": false,
     "frame": true,
     "width": 800,   
