@@ -6,6 +6,6 @@ GenericName=Gemeinsame Präsentationen auf dem Whiteboard
 Comment=""
 Keywords="lp21 schreiben gestalten zusammenarbeiten"
 Icon=pahvi.png
-Exec=nw /usr/share/node/pahvi
+Exec=webapps http://pahvidemo.opinsys.fi
 Terminal=false
 Categories=Education

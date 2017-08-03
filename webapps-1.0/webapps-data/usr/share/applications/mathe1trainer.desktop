@@ -6,6 +6,6 @@ GenericName=Mathe1Trainer
 Comment="Mathe üben 1.Klasse"
 Keywords="lp21 z1  mathematik zahl variable"
 Icon=mathe1trainer.png
-Exec=nw /usr/share/node/mathe1trainer
+Exec=webapps http://www.lehrmittelverlag-zuerich.ch/Portals/1/Documents/lehrmittelsites/matheprimar/rout1gr/_framework/mathematik1_de.html
 Terminal=false
 Categories=Education

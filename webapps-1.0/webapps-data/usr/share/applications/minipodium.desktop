@@ -6,6 +6,6 @@ GenericName=Filme geschützt veröffentlichen und ansehen
 Comment=""
 Keywords="lp21 gestalten zusammenarbeiten"
 Icon=minipodium.png
-Exec=nw /usr/share/node/minipodium
+Exec=waebapps http://www.minipodium.ch
 Terminal=false
 Categories=Education

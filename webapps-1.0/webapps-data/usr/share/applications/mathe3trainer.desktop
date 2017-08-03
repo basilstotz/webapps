@@ -6,6 +6,6 @@ GenericName=Mathe3Trainer
 Comment="Mathe üben 3 .Klasse"
 Keywords="lp21 z2 mathematik zahl variable"
 Icon=mathe3trainer.png
-Exec=nw /usr/share/node/mathe3trainer
+Exec=webapps http://www.lehrmittelverlag-zuerich.ch/Portals/1/Documents/lehrmittelsites/matheprimar/rout3gr/_framework/mathematik3_de.html
 Terminal=false
 Categories=Education

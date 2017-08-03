@@ -6,6 +6,6 @@ GenericName=Leo
 Comment="Bildersuche"
 Keywords="lp21 nmg gestalten"
 Icon=flickr.png
-Exec=nw /usr/share/node/flickr/
+Exec=webapps https://www.flickr.com/search/?license=2%2C3%2C4%2C5%2C6%2C9&text=&advanced=1
 Terminal=false
 Categories=Education

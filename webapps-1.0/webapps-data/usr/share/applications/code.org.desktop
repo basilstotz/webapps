@@ -6,6 +6,6 @@ GenericName=Code.org
 Comment="Lerne Programieren"
 Keywords="lp21 computer programmieren"
 Icon=code_org.png
-Exec=nw /usr/share/node/code.org
+Exec=wabapps http://code.org
 Terminal=false
 Categories=Development

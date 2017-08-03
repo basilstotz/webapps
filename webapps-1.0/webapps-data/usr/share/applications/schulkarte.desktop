@@ -6,6 +6,6 @@ GenericName=Schulkarte
 Comment="Schulkarte mit ÖV"
 Keywords="lp21 raum nmg"
 Icon=schulkarte.png
-Exec=nw /usr/share/node/schulkarte
+Exec=webapps http://www.anhbl.ch/start/index.html?plain=true
 Terminal=false
 Categories=Education

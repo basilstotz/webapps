@@ -6,6 +6,6 @@ GenericName=Mathe2Trainer
 Comment="Mathe üben 2.Klasse"
 Keywords="lp21 z1 mathematik zahl variable"
 Icon=mathe2trainer.png
-Exec=nw /usr/share/node/mathe2trainer
+Exec=webapps http://www.lehrmittelverlag-zuerich.ch/Portals/1/Documents/lehrmittelsites/matheprimar/rout2gr/_framework/mathematik2_de.html
 Terminal=false
 Categories=Education
