@@ -1,0 +1,30 @@
+Format: 1.8
+Date: Thu, 03 Aug 2017 19:12:08 +0200
+Source: webapps
+Binary: webapps
+Architecture: source all
+Version: 1.0-1ubuntu15
+Distribution: UNRELEASED
+Urgency: medium
+Maintainer: Basil Stotz <stotz@amxa.ch>
+Changed-By: Stotz Basil <stotz.basil@basil-lap.basel.opinsys.fi>
+Description: 
+ webapps    - <insert up to 60 chars description>
+Changes: 
+ webapps (1.0-1ubuntu15) UNRELEASED; urgency=medium
+ .
+   * removed icons from nw package.json
+   * moved all nw-apps to webapps
+   * symlink to path
+Checksums-Sha1: 
+ f916386a4d7c065fa53c81906dde4d0e9ea03461 574 webapps_1.0-1ubuntu15.dsc
+ db0e5a7d6ea70af34b1681541f06f204b6890598 1187727 webapps_1.0-1ubuntu15.tar.gz
+ f1b45b588fd6f16c1962116c8b631373c336a34c 1162524 webapps_1.0-1ubuntu15_all.deb
+Checksums-Sha256: 
+ ec56bd9afcfa930f09c74dee5562a2e04d91e25f0df89a5cf502dd3bdae84c5b 574 webapps_1.0-1ubuntu15.dsc
+ 514003965425d1bd756254b2f9d5c643a43202c4211d1a18601b6a518d2519c9 1187727 webapps_1.0-1ubuntu15.tar.gz
+ 6d5638b58e1a2b46e90fbf1c31882c1531db3da12e287ae27505e488b0be1382 1162524 webapps_1.0-1ubuntu15_all.deb
+Files: 
+ cf686b39b385ece22a1e457513a3727d 574 unknown extra webapps_1.0-1ubuntu15.dsc
+ 7ce2c663b8962bdb35fb91a8e375e6d7 1187727 unknown extra webapps_1.0-1ubuntu15.tar.gz
+ dee245a2d1f6d4503e581f91e07801a7 1162524 unknown extra webapps_1.0-1ubuntu15_all.deb

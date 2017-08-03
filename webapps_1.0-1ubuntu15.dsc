@@ -2,7 +2,7 @@ Format: 1.0
 Source: webapps
 Binary: webapps
 Architecture: all
-Version: 1.0-1ubuntu14
+Version: 1.0-1ubuntu15
 Maintainer: Basil Stotz <stotz@amxa.ch>
 Homepage: <insert the upstream URL, if relevant>
 Standards-Version: 3.9.2
@@ -10,8 +10,8 @@ Build-Depends: debhelper (>= 8.0.0)
 Package-List: 
  webapps deb unknown extra
 Checksums-Sha1: 
- 0ad27a157588782475102c943ce9788ee235802d 1187651 webapps_1.0-1ubuntu14.tar.gz
+ db0e5a7d6ea70af34b1681541f06f204b6890598 1187727 webapps_1.0-1ubuntu15.tar.gz
 Checksums-Sha256: 
- 476e26a01183f6c84996e5da021c3a6936e437184918164c1c4c0dacb4f2f3c5 1187651 webapps_1.0-1ubuntu14.tar.gz
+ 514003965425d1bd756254b2f9d5c643a43202c4211d1a18601b6a518d2519c9 1187727 webapps_1.0-1ubuntu15.tar.gz
 Files: 
- ebeddf0912a541d0ce3aa5153ccdf789 1187651 webapps_1.0-1ubuntu14.tar.gz
+ 7ce2c663b8962bdb35fb91a8e375e6d7 1187727 webapps_1.0-1ubuntu15.tar.gz

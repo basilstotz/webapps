@@ -1,9 +1,10 @@
-webapps (1.0-1ubuntu14) UNRELEASED; urgency=medium
+webapps (1.0-1ubuntu15) UNRELEASED; urgency=medium
 
   * removed icons from nw package.json
   * moved all nw-apps to webapps
+  * symlink to path
 
- -- Stotz Basil <stotz.basil@basil-lap.basel.opinsys.fi>  Thu, 03 Aug 2017 13:30:24 +0200
+ -- Stotz Basil <stotz.basil@basil-lap.basel.opinsys.fi>  Thu, 03 Aug 2017 19:12:08 +0200
 
 webapps (1.0-1ubuntu12) precise; urgency=low
 
