@@ -1,10 +1,11 @@
-webapps (1.0-1ubuntu15) UNRELEASED; urgency=medium
+webapps (1.0-1ubuntu16) UNRELEASED; urgency=medium
 
   * removed icons from nw package.json
   * moved all nw-apps to webapps
   * symlink to path
+  * added classroomscreen
 
- -- Stotz Basil <stotz.basil@basil-lap.basel.opinsys.fi>  Thu, 03 Aug 2017 19:12:08 +0200
+ -- Stotz Basil <stotz.basil@basil-lap.basel.opinsys.fi>  Sat, 16 Sep 2017 16:05:02 +0200
 
 webapps (1.0-1ubuntu12) precise; urgency=low
 

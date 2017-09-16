@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Sat, 16 Sep 2017 16:05:02 +0200
+Source: webapps
+Binary: webapps
+Architecture: source all
+Version: 1.0-1ubuntu16
+Distribution: UNRELEASED
+Urgency: medium
+Maintainer: Basil Stotz <stotz@amxa.ch>
+Changed-By: Stotz Basil <stotz.basil@basil-lap.basel.opinsys.fi>
+Description: 
+ webapps    - <insert up to 60 chars description>
+Changes: 
+ webapps (1.0-1ubuntu16) UNRELEASED; urgency=medium
+ .
+   * removed icons from nw package.json
+   * moved all nw-apps to webapps
+   * symlink to path
+   * added classroomscreen
+Checksums-Sha1: 
+ a5d0e4965181ea2ceffe1b39fede3fd7431c917a 574 webapps_1.0-1ubuntu16.dsc
+ def5693ab5c71a2e5bfa73973536997d2a4967e2 1191394 webapps_1.0-1ubuntu16.tar.gz
+ 41a02a1057920e6441d851c1c8786577193920d3 1166526 webapps_1.0-1ubuntu16_all.deb
+Checksums-Sha256: 
+ 292623de4242e6a6df631bbe55a174a8410c6031f6a51450993363f51d154df8 574 webapps_1.0-1ubuntu16.dsc
+ 8ceaff85a680af07db989f33ce9ca5b1da1b5623bd76ebb8ae032f94d64de312 1191394 webapps_1.0-1ubuntu16.tar.gz
+ 62828289b27d9cd525ce1c03d604130a05cb048b54e805fee917a6077fef5218 1166526 webapps_1.0-1ubuntu16_all.deb
+Files: 
+ c82988f082af65668f744b7a0715b29d 574 unknown extra webapps_1.0-1ubuntu16.dsc
+ 10809ec86d3739359cdc0e7dfa66b418 1191394 unknown extra webapps_1.0-1ubuntu16.tar.gz
+ 541f13c87b38084a0da7ff44875abe30 1166526 unknown extra webapps_1.0-1ubuntu16_all.deb
