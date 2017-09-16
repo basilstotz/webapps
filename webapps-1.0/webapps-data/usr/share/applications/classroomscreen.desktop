@@ -1,9 +1,9 @@
 #!/usr/bin/env xdg-open
 [Desktop Entry]
 Type=Application
-Name=ClassRoomScreen
+Name=ClassroomScreen
 GenericName=Simple Whiteboard App
 Icon=classroomscreen.png
 Exec=webapps http://classroomscreen.com
 Terminal=false
-Categories=Education;Whitboard
+Categories=Education;Whiteboard
