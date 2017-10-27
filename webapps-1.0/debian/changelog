@@ -1,12 +1,13 @@
-webapps (1.0-1ubuntu17) UNRELEASED; urgency=medium
+webapps (1.0-1ubuntu18) UNRELEASED; urgency=medium
 
   * removed icons from nw package.json
   * moved all nw-apps to webapps
   * symlink to path
   * added classroomscreen
   * fixed icon
+  * add dybuster orthograph and calcularis
 
- -- Stotz Basil <stotz.basil@basil-lap.basel.opinsys.fi>  Sat, 16 Sep 2017 21:52:18 +0200
+ -- Stotz Basil <stotz.basil@basil-lap.basel.opinsys.fi>  Fri, 27 Oct 2017 13:22:15 +0200
 
 webapps (1.0-1ubuntu12) precise; urgency=low
 

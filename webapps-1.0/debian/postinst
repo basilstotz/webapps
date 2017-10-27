@@ -20,6 +20,9 @@ set -e
 
 case "$1" in
     configure)
+      if test  -e /usr/bin/webapps;then
+        rm /usr/bin/webapps
+      fi
       ln -s /usr/share/bin/webapps /usr/bin/webapps
     ;;
 

@@ -1,0 +1,33 @@
+Format: 1.8
+Date: Fri, 27 Oct 2017 13:22:15 +0200
+Source: webapps
+Binary: webapps
+Architecture: source all
+Version: 1.0-1ubuntu18
+Distribution: UNRELEASED
+Urgency: medium
+Maintainer: Basil Stotz <stotz@amxa.ch>
+Changed-By: Stotz Basil <stotz.basil@basil-lap.basel.opinsys.fi>
+Description: 
+ webapps    - <insert up to 60 chars description>
+Changes: 
+ webapps (1.0-1ubuntu18) UNRELEASED; urgency=medium
+ .
+   * removed icons from nw package.json
+   * moved all nw-apps to webapps
+   * symlink to path
+   * added classroomscreen
+   * fixed icon
+   * add dybuster orthograph and calcularis
+Checksums-Sha1: 
+ 1b1a8546133bd70c687cf872da039da677f1ee65 574 webapps_1.0-1ubuntu18.dsc
+ affb47e48d1be0c88796a3f7bcf5e28b9b6fd923 1193579 webapps_1.0-1ubuntu18.tar.gz
+ cb4199f5795a3b783763ce346b5caffd92840228 1168694 webapps_1.0-1ubuntu18_all.deb
+Checksums-Sha256: 
+ ddc55fdb369f533dade12441d9cea83e21e5c011aeb0ae361d220b39f5700c5b 574 webapps_1.0-1ubuntu18.dsc
+ bafe3bf6d7dbb3277188b4dfbe6b601819c28e93092d67cedd7ca434e9c1cf52 1193579 webapps_1.0-1ubuntu18.tar.gz
+ 0d2eb808384d3e8a75d4caf9eace34451a5fb7d34ea78299b1ae711277d4fbcb 1168694 webapps_1.0-1ubuntu18_all.deb
+Files: 
+ 86e0be7d1734c7d14c565c365a9845de 574 unknown extra webapps_1.0-1ubuntu18.dsc
+ 47c83f88a069deb0e02fffae9a17b23e 1193579 unknown extra webapps_1.0-1ubuntu18.tar.gz
+ 60ef0d3282e411ee5f34abaea8b49bb0 1168694 unknown extra webapps_1.0-1ubuntu18_all.deb
