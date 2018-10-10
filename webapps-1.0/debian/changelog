@@ -1,4 +1,4 @@
-webapps (1.0-1ubuntu19) UNRELEASED; urgency=medium
+webapps (1.0-1ubuntu20) UNRELEASED; urgency=medium
 
   * removed icons from nw package.json
   * moved all nw-apps to webapps
@@ -7,8 +7,9 @@ webapps (1.0-1ubuntu19) UNRELEASED; urgency=medium
   * fixed icon
   * add dybuster orthograph and calcularis
   * add  helles-koepfchen.de
+  * add mathwelt2.ch
 
- -- Stotz Basil <stotz.basil@basil-lap.basel.opinsys.fi>  Fri, 27 Oct 2017 16:14:58 +0200
+ -- Stotz Basil <stotz.basil@basil-lap.basel.opinsys.fi>  Wed, 10 Oct 2018 17:23:50 +0200
 
 webapps (1.0-1ubuntu12) precise; urgency=low
 
