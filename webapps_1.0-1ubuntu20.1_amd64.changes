@@ -1,0 +1,42 @@
+Format: 1.8
+Date: Sun, 03 Feb 2019 10:08:51 +0100
+Source: webapps
+Binary: webapps
+Architecture: source all
+Version: 1.0-1ubuntu20.1
+Distribution: UNRELEASED
+Urgency: medium
+Maintainer: Basil Stotz <stotz@amxa.ch>
+Changed-By: Basil Stotz <stotz.basil@builder4>
+Description:
+ webapps    - <insert up to 60 chars description>
+Changes:
+ webapps (1.0-1ubuntu20.1) UNRELEASED; urgency=medium
+ .
+   [ Stotz Basil ]
+   * removed icons from nw package.json
+   * moved all nw-apps to webapps
+   * symlink to path
+   * added classroomscreen
+   * fixed icon
+   * add dybuster orthograph and calcularis
+   * add  helles-koepfchen.de
+   * add mathwelt2.ch
+ .
+   [ Basil Stotz ]
+   * add uMap, Scratch3 and onthesamepage
+Checksums-Sha1:
+ f6bb7f7593b26e8d18929067c9d139d0a1aa4597 587 webapps_1.0-1ubuntu20.1.dsc
+ b418cf02033b094006b3a77668dbcabf9786f490 1278998 webapps_1.0-1ubuntu20.1.tar.gz
+ fe19759fe7cb8e05dca6870a74355fb53f03684b 1255368 webapps_1.0-1ubuntu20.1_all.deb
+ de6290dc3ca8456bcd47efa9d30613087368b212 5207 webapps_1.0-1ubuntu20.1_amd64.buildinfo
+Checksums-Sha256:
+ 2148cdedb233efbc5061ec28f22e8df34673f5d4177d39cc394490362cefc1ef 587 webapps_1.0-1ubuntu20.1.dsc
+ 33eba46a09c66a4dfb4aa201f09c60f1286715e111eda425699861e422772797 1278998 webapps_1.0-1ubuntu20.1.tar.gz
+ f69a7018f64bbe5fa4a3e5483c82926a49a4806bb16d660f2242f5eb4a52e1ae 1255368 webapps_1.0-1ubuntu20.1_all.deb
+ 92d2febcea69a58310e93c52986f8fcf2703fc2116553b04d574dfe0ac28174d 5207 webapps_1.0-1ubuntu20.1_amd64.buildinfo
+Files:
+ d3b373697aee4ce2cc041773f3764021 587 unknown extra webapps_1.0-1ubuntu20.1.dsc
+ e1bc3604c6536218aa46bd57c26f4cd3 1278998 unknown extra webapps_1.0-1ubuntu20.1.tar.gz
+ 782dd42ceae2ae458d0c6fd574f29751 1255368 unknown extra webapps_1.0-1ubuntu20.1_all.deb
+ d254716abc34bb64317ef1cc2f30de4c 5207 unknown extra webapps_1.0-1ubuntu20.1_amd64.buildinfo

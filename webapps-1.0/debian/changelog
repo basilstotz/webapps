@@ -1,5 +1,6 @@
-webapps (1.0-1ubuntu20) UNRELEASED; urgency=medium
+webapps (1.0-1ubuntu20.1) UNRELEASED; urgency=medium
 
+  [ Stotz Basil ]
   * removed icons from nw package.json
   * moved all nw-apps to webapps
   * symlink to path
@@ -9,7 +10,10 @@ webapps (1.0-1ubuntu20) UNRELEASED; urgency=medium
   * add  helles-koepfchen.de
   * add mathwelt2.ch
 
- -- Stotz Basil <stotz.basil@basil-lap.basel.opinsys.fi>  Wed, 10 Oct 2018 17:23:50 +0200
+  [ Basil Stotz ]
+  * add uMap, Scratch3 and onthesamepage
+
+ -- Basil Stotz <stotz.basil@builder4>  Sun, 03 Feb 2019 10:08:51 +0100
 
 webapps (1.0-1ubuntu12) precise; urgency=low
 
