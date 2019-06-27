@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Type=Application
+Name=MilleFeuilles-Online
+GenericName=MilleFeuilles-Online
+Comment="Fanzösisch lernen"
+Keywords="lp21 sprachen französisch"
+Icon=/usr/share/prop/millefeuilles/pixmaps/mf.png
+Exec=/usr/share/bin/webapps https://serv88919410.secure-node.at/
+Terminal=false
+Categories=Education
