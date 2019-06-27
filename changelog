@@ -12,9 +12,15 @@ webapps (1.0-1ubuntu20.1) UNRELEASED; urgency=medium
   * add millefeoulles online html5	
 
   [ Basil Stotz ]
+<<<<<<< HEAD
   * 
 
  -- Basil Stotz <stotz.basil@builder4>  Thu, 27 Jun 2019 15:44:56 +0200
+=======
+  * add uMap, Scratch3 and onthesamepage
+
+ -- Basil Stotz <stotz.basil@builder4>  Sun, 03 Feb 2019 10:08:51 +0100
+>>>>>>> ebb5b9b590148ea647429e6d53d861659e106af1
 
 webapps (1.0-1ubuntu12) precise; urgency=low
 
