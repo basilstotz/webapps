@@ -1,4 +1,4 @@
-webapps (1.0-1ubuntu20.1) UNRELEASED; urgency=medium
+webapps (1.0-1ubuntu20.5) UNRELEASED; urgency=medium
 
   [ Stotz Basil ]
   * removed icons from nw package.json
@@ -9,18 +9,19 @@ webapps (1.0-1ubuntu20.1) UNRELEASED; urgency=medium
   * add dybuster orthograph and calcularis
   * add  helles-koepfchen.de
   * add mathwelt2.ch
-  * add millefeoulles online html5	
+	* add millefeoulles online html5
+	* new build
+	* remove mf.png
 
   [ Basil Stotz ]
 <<<<<<< HEAD
   * 
+  * 
+  * 
+  * remove xosview.png
+  * change classrommscreen url
 
- -- Basil Stotz <stotz.basil@builder4>  Thu, 27 Jun 2019 15:44:56 +0200
-=======
-  * add uMap, Scratch3 and onthesamepage
-
- -- Basil Stotz <stotz.basil@builder4>  Sun, 03 Feb 2019 10:08:51 +0100
->>>>>>> ebb5b9b590148ea647429e6d53d861659e106af1
+ -- Basil Stotz <stotz.basil@opinsys-nNXfd0yP>  Tue, 28 Apr 2020 15:38:45 +0200
 
 webapps (1.0-1ubuntu12) precise; urgency=low
 
