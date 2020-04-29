@@ -1,4 +1,4 @@
-webapps (1.0-1ubuntu20.5) UNRELEASED; urgency=medium
+webapps (1.0-1ubuntu20.6) UNRELEASED; urgency=medium
 
   [ Stotz Basil ]
   * removed icons from nw package.json
@@ -20,8 +20,9 @@ webapps (1.0-1ubuntu20.5) UNRELEASED; urgency=medium
   * 
   * remove xosview.png
   * change classrommscreen url
+  * add https://anton.app
 
- -- Basil Stotz <stotz.basil@opinsys-nNXfd0yP>  Tue, 28 Apr 2020 15:38:45 +0200
+ -- Basil Stotz <stotz.basil@opinsys-nNXfd0yP>  Wed, 29 Apr 2020 11:28:51 +0200
 
 webapps (1.0-1ubuntu12) precise; urgency=low
 

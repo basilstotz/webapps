@@ -1,0 +1,47 @@
+Format: 1.8
+Date: Wed, 29 Apr 2020 11:28:51 +0200
+Source: webapps
+Binary: webapps
+Architecture: source all
+Version: 1.0-1ubuntu20.6
+Distribution: UNRELEASED
+Urgency: medium
+Maintainer: Basil Stotz <stotz@amxa.ch>
+Changed-By: Basil Stotz <stotz.basil@opinsys-nNXfd0yP>
+Description:
+ webapps    - <insert up to 60 chars description>
+Changes:
+ webapps (1.0-1ubuntu20.6) UNRELEASED; urgency=medium
+ .
+   [ Stotz Basil ]
+   * removed icons from nw package.json
+   * moved all nw-apps to webapps
+   * symlink to path
+   * added classroomscreen
+   * fixed icon
+   * add dybuster orthograph and calcularis
+   * add  helles-koepfchen.de
+   * add mathwelt2.ch
+ .
+   [ Basil Stotz ]
+   *
+   *
+   *
+   * remove xosview.png
+   * change classrommscreen url
+   * add https://anton.app
+Checksums-Sha1:
+ 535a79af94c236aede80a1e6de3c6ae40e5c5ca8 587 webapps_1.0-1ubuntu20.6.dsc
+ a2276fa443d0e9e95fa449758b5d0e3bb98f9081 1279142 webapps_1.0-1ubuntu20.6.tar.gz
+ 215556fed6c1e82c890abdd24a237fb47bdc839b 1255384 webapps_1.0-1ubuntu20.6_all.deb
+ ab99fc4b627c3fbf6428e2094746fca1fd7f9f2c 4671 webapps_1.0-1ubuntu20.6_amd64.buildinfo
+Checksums-Sha256:
+ 3e6f7f7a4bf21e475426b56ad13021bfe068099a13d86d8e86de82d5c49599fb 587 webapps_1.0-1ubuntu20.6.dsc
+ c9e3af03799553e30842d15bf45348e87b3ce592e1ee911cdabd81a01c48cad7 1279142 webapps_1.0-1ubuntu20.6.tar.gz
+ 70fafc52a35fe7f298bf69e21300d542aef8d9b0815333946e1d82841c975db4 1255384 webapps_1.0-1ubuntu20.6_all.deb
+ e3586169a2d30ad4371390a3b85f9c8fd943fedbdc6a01b1e8f561931521a6d8 4671 webapps_1.0-1ubuntu20.6_amd64.buildinfo
+Files:
+ 51da9c82535cb6defae765f36c54cdfd 587 unknown extra webapps_1.0-1ubuntu20.6.dsc
+ 746ca53f699b986c84bef39c636ebcfd 1279142 unknown extra webapps_1.0-1ubuntu20.6.tar.gz
+ cd25e95d9a3d8ed61ecf1d4a7b6361a2 1255384 unknown extra webapps_1.0-1ubuntu20.6_all.deb
+ 483f0bf1d2895c6ab07e522e99aafe28 4671 unknown extra webapps_1.0-1ubuntu20.6_amd64.buildinfo

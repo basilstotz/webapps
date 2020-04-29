@@ -2,19 +2,19 @@ Format: 1.0
 Source: webapps
 Binary: webapps
 Architecture: all source
-Version: 1.0-1ubuntu20.5
+Version: 1.0-1ubuntu20.6
 Checksums-Md5:
- bc55000eafdeffd572240584f2949eb7 587 webapps_1.0-1ubuntu20.5.dsc
- ea724ad24fcfbdcc34fc3493b7f9b753 1253092 webapps_1.0-1ubuntu20.5_all.deb
+ 51da9c82535cb6defae765f36c54cdfd 587 webapps_1.0-1ubuntu20.6.dsc
+ cd25e95d9a3d8ed61ecf1d4a7b6361a2 1255384 webapps_1.0-1ubuntu20.6_all.deb
 Checksums-Sha1:
- e4ee0d4b5a4c10845fa453a8362dd819ae6b144c 587 webapps_1.0-1ubuntu20.5.dsc
- ae2c5f4c0f319fc2b9b25b7fd695bb3009560691 1253092 webapps_1.0-1ubuntu20.5_all.deb
+ 535a79af94c236aede80a1e6de3c6ae40e5c5ca8 587 webapps_1.0-1ubuntu20.6.dsc
+ 215556fed6c1e82c890abdd24a237fb47bdc839b 1255384 webapps_1.0-1ubuntu20.6_all.deb
 Checksums-Sha256:
- c3ed6c455a1f280284acad9eb599cc0816f670f028ada34a5d8a6dc5570b84ba 587 webapps_1.0-1ubuntu20.5.dsc
- cb243aa5b58fe2363a34494bc6aa4737dbc61ff88ee42ed612d6940c2d615ea5 1253092 webapps_1.0-1ubuntu20.5_all.deb
+ 3e6f7f7a4bf21e475426b56ad13021bfe068099a13d86d8e86de82d5c49599fb 587 webapps_1.0-1ubuntu20.6.dsc
+ 70fafc52a35fe7f298bf69e21300d542aef8d9b0815333946e1d82841c975db4 1255384 webapps_1.0-1ubuntu20.6_all.deb
 Build-Origin: Debian
 Build-Architecture: amd64
-Build-Date: Tue, 28 Apr 2020 15:39:17 +0200
+Build-Date: Wed, 29 Apr 2020 11:29:19 +0200
 Build-Tainted-By:
  merged-usr-via-symlinks
  usr-local-has-libraries
@@ -163,4 +163,4 @@ Environment:
  DEB_BUILD_OPTIONS="parallel=4"
  LANG="de_CH.UTF-8"
  MAKEFLAGS=""
- SOURCE_DATE_EPOCH="1588081125"
+ SOURCE_DATE_EPOCH="1588152531"
