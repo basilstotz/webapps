@@ -1,7 +1,6 @@
 TARGETS = init build clean publish
 NAME = "webapps"
 
-
 .PHONY: ${TARGETS}
 .PHONY: help
 
