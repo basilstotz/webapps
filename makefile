@@ -1,6 +1,7 @@
 TARGETS = init build clean publish
 NAME = "webapps"
 
+
 .PHONY: ${TARGETS}
 .PHONY: help
 
@@ -19,4 +20,4 @@ build:
 
 publish:
 	@./bin/publish.sh ${NAME}
-	
+
